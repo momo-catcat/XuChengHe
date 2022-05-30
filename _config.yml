@@ -10,7 +10,7 @@ title: Xu-Cheng He
 email: xucheng.he@helsinki.fi 
 description: > # this means to ignore newlines until "baseurl:"
   Website of Xu-Cheng He.
-baseurl: "/XuChengHe"
+baseurl: ""
 url: "https://momo-catcat.github.io"
 
 include:
