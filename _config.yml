@@ -11,7 +11,7 @@ email: xucheng.he@helsinki.fi
 description: > # this means to ignore newlines until "baseurl:"
   Website of Xu-Cheng He.
 baseurl: ""
-url: "https://xuchenghe.github.io"
+url: "https://momo-catcat.github.io"
 
 include:
   - .htaccess
