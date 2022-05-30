@@ -1,7 +1,7 @@
 ---
-title: "Some pictures"
+title: "Gallery"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Xu-Cheng He research gallery"
 permalink: /pictures/
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Xu-Cheng He research"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Xu-Cheng He Curriculum Vitae"
 sitemap: false
-permalink: /team/
+permalink: /CV/
 ---
 
 # Group Members
