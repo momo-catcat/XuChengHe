@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Xu-Cheng He 
-email: xucheng.he@helsinki.fi 
+title: The Allan Lab
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of Xu-Cheng He.
-baseurl: "/XuChengHe"
-url: "https://momo-catcat.github.io"
+  Website of the AllanLab.
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
