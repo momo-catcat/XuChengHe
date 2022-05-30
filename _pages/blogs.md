@@ -1,9 +1,9 @@
 ---
-title: CV 
+title: "Blogs"
 layout: "page" 
-excerpt: "Xu-Cheng He Curriculum Vitae"
+excerpt: "Xu-Cheng He blogs"
 sitemap: false
-permalink: /CV/
+permalink: /blogs
 ---
 
 This page is under construction.

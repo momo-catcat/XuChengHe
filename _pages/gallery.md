@@ -2,7 +2,7 @@
 title: "Gallery"
 layout: piclay
 excerpt: "Xu-Cheng He research gallery"
-permalink: /pictures/
+permalink: /gallery/
 ---
 
 # Pictures
