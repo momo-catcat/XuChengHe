@@ -1,0 +1,48 @@
+I"<h1 id="group-members">Group Members</h1>
+
+<h2 id="members">Members</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Xu-Cheng.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Xu-Cheng He</h4>
+    <p><i>Post-doctoral researcher, started May 2022 <!--<br>email: <xucheng.he@helsinki.fi></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> BSc at Yunnan University, 2015 </li>
+  <li> MSc at University of Helsinki, 2017 </li>
+  <li> PhD at University of Helsinki, 2021 </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="col-sm-6 clearfix">
+  <h4></h4>
+  <p><i> <!-- <br>email: <></i> --></i></p>
+  <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+</div>
+
+:ET
