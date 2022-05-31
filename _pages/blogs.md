@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-layout: "page" 
+layout: textlay 
 excerpt: "Xu-Cheng He blogs"
 sitemap: false
 permalink: /blogs
