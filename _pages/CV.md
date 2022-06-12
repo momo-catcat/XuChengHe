@@ -10,7 +10,7 @@ permalink: /CV/
 ### EDUCATION 
 
 #### 2018 - 2021, PhD in Atmospheric Sciences (Distinction, 10%), University of Helsinki
-#####  - Advisors: Prof. Markku Kulmala, Prof. Mikko Sipilä, Prof. Matti Rissanen, Prof. Theo Kurtén, Prof. Jasper Kirkby
+#####  - Advisors: Prof. Markku Kulmala, Prof. Jasper Kirkby, Prof. Mikko Sipilä, Prof. Matti Rissanen, Prof. Theo Kurtén
 
 #### 2015 - 2017, MSc in Atmospheric Sciences, University of Helsinki 
 ##### - Advisors: Prof. Mikko Sipilä, Prof. Matti Rissanen 
