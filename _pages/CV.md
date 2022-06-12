@@ -35,15 +35,15 @@ permalink: /CV/
 
 ### AWARDS
 
-##### 2022, Dissertation price, all faculties (4 annually), University of Helsinki (4000 €)
-##### 2022, NOSA ECS Aerosologist award (Early Career Scientist), Nordic Society of Aerosol Research
+##### 2022, Dissertation price, all faculties (4/500), University of Helsinki (4000 €)
+##### 2022, [NOSA ECS Aerosologist award](https://mailchi.mp/3e749816d515/nosa-newsletter-8?e=2136630d73) (Early Career Scientist), Nordic Society of Aerosol Research
 ##### 2021, Outstanding thesis award, Doctoral School of Natural Sciences, University of Helsinki (2000 €)
 ##### 2015, International student grant, University of Helsinki (1500 €)
 ##### 2015, Best thesis award, Yunnan University 
 
 <br/>
 
-### Fellowships & Grants
-##### 2023-2025, post-doctoral researcher grant, Academy of Finland (364,377 €)
-##### 2022, post-doctoral researcher grant, Jenny and Antti Wihuri Foundation (56,000 €)
+### FELLOWSHIPS & GRANTS 
+##### 2023-2025, [post-doctoral researcher grant](https://www.aka.fi/en/about-us/whats-new/press-releases/2022/new-academy-of-finland-postdoctoral-researchers-selected-in-natural-sciences-and-engineering-research/), Academy of Finland (364,377 €)
+##### 2022, [post-doctoral researcher grant](https://postdocpooli.fi/the-results-from-the-pools-application-round-31-new-grants/), Jenny and Antti Wihuri Foundation (56,000 €)
 ##### 2018-2021, Doctoral school fellowship, University of Helsinki (108,000 €)
