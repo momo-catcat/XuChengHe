@@ -22,7 +22,7 @@ permalink: /CV/
 
 ### PROFESSIONAL EXPERIENCE
 
-##### 2022.04 - **present**, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
+##### 2022.03 - **present**, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
 ##### 2022.05 - **present**, [CLOUD](https://home.cern/science/experiments/cloud) project coordinator at [University of Helsinki](https://www.helsinki.fi/en) 
 ##### 2016.09 - **present**, visiting researcher at [CERN](https://home.cern) (1 - 2 months per year) 
 ##### 2021.09 - 2022.02, post-doctoral researcher at [University of Helsinki](https://www.helsinki.fi/en)
@@ -30,6 +30,7 @@ permalink: /CV/
 ##### 2020.09 - 2021.01, visiting researcher at [Nanjing University](https://www.nju.edu.cn/en/main.psp)
 ##### 2020.02 - 2020.03, visiting researcher at [Spanish National Research Council](https://www.csic.es/en/csic)
 ##### 2016.06 - 2017.12, research assistant at [University of Helsinki](https://www.helsinki.fi/en)
+##### 2014.01 - 2015.09, research assistant at [Yunnan University](http://english.ynu.edu.cn)
 
 <br/>
 
@@ -39,11 +40,13 @@ permalink: /CV/
 ##### 2022, [NOSA ECS Aerosologist award](https://mailchi.mp/3e749816d515/nosa-newsletter-8?e=2136630d73) (Early Career Scientist), Nordic Society of Aerosol Research
 ##### 2021, Outstanding thesis award, Doctoral School of Natural Sciences, University of Helsinki (2000 €)
 ##### 2015, International student grant, University of Helsinki (1500 €)
-##### 2015, Best thesis award, Yunnan University 
+##### 2015, Best thesis award (1/43), Yunnan University 
+##### 2012, Campus star in science and innovation (10/4000), Yunnan University 
 
 <br/>
 
 ### FELLOWSHIPS & GRANTS 
-##### 2023-2025, [post-doctoral researcher grant](https://www.aka.fi/en/about-us/whats-new/press-releases/2022/new-academy-of-finland-postdoctoral-researchers-selected-in-natural-sciences-and-engineering-research/), Academy of Finland (364,377 €)
+
+##### 2022-2025, [post-doctoral researcher grant](https://www.aka.fi/en/about-us/whats-new/press-releases/2022/new-academy-of-finland-postdoctoral-researchers-selected-in-natural-sciences-and-engineering-research/), Academy of Finland (364,377 €)
 ##### 2022, [post-doctoral researcher grant](https://postdocpooli.fi/the-results-from-the-pools-application-round-31-new-grants/), Jenny and Antti Wihuri Foundation (56,000 €)
-##### 2018-2021, Doctoral school fellowship, University of Helsinki (108,000 €)
+##### 2018-2021, Doctoral school fellowship, University of Helsinki (ca. 108,000 €)
