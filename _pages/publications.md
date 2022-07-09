@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-**At the end of this page, you can find the [full list of selected publications](#full-list-of-publications).**
+**At the end of this page, you can find the [list of highlights](#list-of-highlights) and the [full list of publications](#full-list-of-publications).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,7 +49,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-## Full List of publications
+## List of highlights 
 
 {% for publi in site.data.publist %}
 
@@ -57,3 +57,5 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+## Full list of publications 
