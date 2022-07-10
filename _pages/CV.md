@@ -5,8 +5,7 @@ excerpt: "Xu-Cheng He Curriculum Vitae"
 sitemap: false
 permalink: /CV/
 ---
-### Xu-Cheng He, PhD ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xu-Cheng.jpg){: style="width: 250px; float: left; margin: 0px 10px"}
-
+### Xu-Cheng He, PhD ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xu-Cheng.jpg){: style="width: 450px; float: left; margin: 0px 10px"}
 ### EDUCATION 
 
 #### 2018 - 2021, PhD in Atmospheric Sciences (Distinction, 10%), University of Helsinki
@@ -19,9 +18,6 @@ permalink: /CV/
 ##### - Advisor: Dr. Di Zhao
 
 ##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [Publons](https://publons.com/researcher/4586969/xu-cheng-he/)
-
-<br/>
-
 ### PROFESSIONAL EXPERIENCE
 
 ##### 2022.03 - **present**, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
