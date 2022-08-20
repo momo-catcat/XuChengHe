@@ -20,7 +20,7 @@ permalink: /CV/
 ##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [Publons](https://publons.com/researcher/4586969/xu-cheng-he/)
 ### PROFESSIONAL EXPERIENCE
 
-##### 2022.04 - **present**, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
+##### 2022.03 - **present**, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
 ##### 2017.09 - **present**, [CLOUD](https://home.cern/science/experiments/cloud) project coordinator at [University of Helsinki](https://www.helsinki.fi/en) 
 ##### 2016.09 - **present**, visiting researcher at [CERN](https://home.cern) (1 - 2 months per year) 
 ##### 2021.09 - 2022.02, post-doctoral researcher at [University of Helsinki](https://www.helsinki.fi/en)
