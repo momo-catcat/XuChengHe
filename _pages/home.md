@@ -40,7 +40,7 @@ permalink: /
 </div>
 
 
-##### Hi, I'm Xu-Cheng (Lance) He, 何旭成, an early career researcher studying atmospheric aerosols, clouds and their climatic effects. I'm currently a post-doctoral researcher at the [Center for Atmospheric Particle Studies](https://particulate-matter.cmu.edu/research/index.html) at [Carnegie Mellon University](https://particulate-matter.cmu.edu/research/index.html) and I'm also associated with the [Institute for Atmospheric and Earth System Research (INAR)](https://www.helsinki.fi/en/inar) at [University of Helsinki](https://www.helsinki.fi/en), where I completed my MSc and PhD degrees with [Prof. Markku Kulmala](https://tuhat.helsinki.fi/ws/portalfiles/portal/120853317/KULMALA_Markku_CV.pdf).
+##### Hi, I'm Xu-Cheng (Lance) He, 何旭成, an early career researcher studying atmospheric aerosols, clouds and their climatic effects. I'm currently a post-doctoral researcher at [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/research) and I'm also associated with the [Institute for Atmospheric and Earth System Research (INAR)](https://www.helsinki.fi/en/inar) at [University of Helsinki](https://www.helsinki.fi/en), where I completed my MSc and PhD degrees with [Prof. Markku Kulmala](https://tuhat.helsinki.fi/ws/portalfiles/portal/120853317/KULMALA_Markku_CV.pdf).
 
 ##### My research combines state-of-the-art mass spectrometric methods with quantum chemical calculations to investigate and interpret atmospheric aerosol formation both from ambient observations and chamber simulations. 
 
