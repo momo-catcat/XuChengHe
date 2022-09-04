@@ -20,9 +20,10 @@ permalink: /CV/
 ##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [Publons](https://publons.com/researcher/4586969/xu-cheng-he/)
 ### PROFESSIONAL EXPERIENCE
 
-##### 2022.04 - **present**, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
+##### 2022.09 - **present**, post-doctoral researcher at [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/climate-system-research)
 ##### 2017.09 - **present**, [CLOUD](https://home.cern/science/experiments/cloud) project coordinator at [University of Helsinki](https://www.helsinki.fi/en) 
 ##### 2016.09 - **present**, visiting researcher at [CERN](https://home.cern) (1 - 2 months per year) 
+##### 2022.03 - 2022.08, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
 ##### 2021.09 - 2022.02, post-doctoral researcher at [University of Helsinki](https://www.helsinki.fi/en)
 ##### 2021.03 - 2021.08, visiting researcher at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm)
 ##### 2020.09 - 2021.01, visiting researcher at [Nanjing University](https://www.nju.edu.cn/en/main.psp)
@@ -34,10 +35,11 @@ permalink: /CV/
 
 ### AWARDS
 
-##### 2022, Dissertation price, all faculties (4/500), University of Helsinki (4000 €)
+##### 2022, Chinese Government Award for Outstanding Self-financed Students Abroad, special award for 20 awardees globally (10,000 $)
+##### 2022, Dissertation price, all faculties (4/500), University of Helsinki (4,000 €)
 ##### 2022, [NOSA ECS Aerosologist award](https://mailchi.mp/3e749816d515/nosa-newsletter-8?e=2136630d73) (Early Career Scientist), Nordic Society of Aerosol Research
-##### 2021, Outstanding thesis award, Doctoral School of Natural Sciences, University of Helsinki (2000 €)
-##### 2015, International student grant, University of Helsinki (1500 €)
+##### 2021, Outstanding thesis award, Doctoral School of Natural Sciences, University of Helsinki (2,000 €)
+##### 2015, International student grant, University of Helsinki (1,500 €)
 ##### 2015, Best thesis award (1/43), Yunnan University 
 ##### 2012, Campus star in science and innovation (10/4000), Yunnan University 
 
