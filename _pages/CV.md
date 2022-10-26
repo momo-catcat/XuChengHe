@@ -35,7 +35,7 @@ permalink: /CV/
 
 ### AWARDS
 
-##### 2022, Chinese Government Award for Outstanding Self-financed Students Abroad, special award for 20 awardees globally (10,000 $)
+##### 2022, Extraordinary Potential Prize of 2021 Chinese Government Award for Outstanding Self-financed Students Abroad, award for 20 awardees globally (10,000 $)
 ##### 2022, Dissertation price, all faculties (4/500), University of Helsinki (4,000 €)
 ##### 2022, [NOSA ECS Aerosologist award](https://mailchi.mp/3e749816d515/nosa-newsletter-8?e=2136630d73) (Early Career Scientist), Nordic Society of Aerosol Research
 ##### 2021, Outstanding thesis award, Doctoral School of Natural Sciences, University of Helsinki (2,000 €)
@@ -64,14 +64,14 @@ permalink: /CV/
 #### *Course Assistance*
 ##### 2019. Course assistant for the 3rd course on climate science at high latitudes: eScience for linking Arctic measurements and modeling in Abisko
 #### *Supervision*
-##### **Jiali Shen(2018.05-present)**, **co-supervised** doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation
-#### *Students partially under my guidance*
+##### **Jiali Shen(2018.05-present)**, **inofficially supervising** doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation. I started mentoring her as a senior student and now as a researcher. I work tightly with her since the beginning, conveying my knowledge on kinetic modeling, chamber experiments, scientific writing and other elements needed to be an independent researcher. She is a fast learner and I'm pround of her.
+#### *I also work closely with and guide:*
 ##### **Birte Rörup(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to iodine particle formation and aerosol measurements. 
 ##### **Duzitian Li(2021.09-present)**, MSc student at Nanjing University. Topic related to investigating iodine species in polluted urban regions
 ##### **Ying Zhang(2018.09-2022.05)**, graduated MSc student at Beijing University of Chemical Technology. Thesis title: Contribution of inorganic acids containing oxygen in gas-particle process to particle number concentration in urban Beijing 
 
 <br/>
-### OUTREACH
+### Scientific activities 
 #### *Selected Invited Talks*
 
 ##### 2022.08. **Invited speaker**, Measurement of Nucleating Clusters at the CLOUD Chamber, [Gordon Research Conference](https://www.grc.org/molecular-and-ionic-clusters-conference/2022/), Italy
@@ -93,6 +93,8 @@ permalink: /CV/
 ##### 2018. 3 oral presentations in scientific meetings
     
 ##### 2017. 1 oral and 3 poster presentations in conferences; 4 oral presentations in scientific meetings
+
+### OUTREACH
 
 #### *Social media outreach*
 
