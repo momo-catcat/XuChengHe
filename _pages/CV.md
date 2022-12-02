@@ -21,8 +21,7 @@ permalink: /CV/
 ### PROFESSIONAL EXPERIENCE
 
 ##### 2022.09 - **present**, post-doctoral researcher at [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/climate-system-research)
-##### 2017.09 - **present**, [CLOUD](https://home.cern/science/experiments/cloud) project coordinator at [University of Helsinki](https://www.helsinki.fi/en) 
-##### 2016.09 - **present**, visiting researcher at [CERN](https://home.cern) (1 - 2 months per year) 
+##### 2016.09 - **present**, run coordinator for marine particle formation studies at the [CLOUD](https://home.cern/science/experiments/cloud) project at [CERN](https://home.cern) 
 ##### 2022.03 - 2022.08, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
 ##### 2021.09 - 2022.02, post-doctoral researcher at [University of Helsinki](https://www.helsinki.fi/en)
 ##### 2021.03 - 2021.08, visiting researcher at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm)
