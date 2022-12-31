@@ -1,95 +1,120 @@
----
-title: "Xu-Cheng He - Publications"
-layout: gridlay
-excerpt: "Allan Lab -- Publications."
-sitemap: false
-permalink: /publications/
----
+I"9�<h1 id="publications">Publications</h1>
 
+<h2 id="highlights">Highlights</h2>
 
-# Publications
+<p><strong>At the end of this page, you can find the <a href="#list-of-highlights">list of highlights</a> and the <a href="#full-list-of-publications">full list of publications</a>.</strong></p>
 
-## Highlights
-
-**At the end of this page, you can find the [list of highlights](#list-of-highlights) and the [full list of publications](#full-list-of-publications).**
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
 
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The gas-phase formation mechanism of iodic acid as an atmospheric aerosol source</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/HIO3_formation_mechanism.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>Iodine is a reactive trace element in atmospheric chemistry that destroys ozone and nucleates particles. Iodine emissions have tripled since 1950 and are projected to keep increasing with rising O<sub>3</sub> surface concentrations. Although iodic acid (HIO<sub>3</sub>) is widespread and forms particles more efficiently than sulfuric acid, its gas-phase formation mechanism remains unresolved. Here, in CLOUD atmospheric simulation chamber experiments that generate iodine radicals at atmospherically relevant rates, we show that iodooxy hypoiodite, IOIO, is efficiently converted into HIO<sub>3</sub> via reactions (R1) IOIO + O<sub>3</sub> → IOIO<sub>4</sub> and (R2) IOIO<sub>4</sub> + H<sub>2</sub>O → HIO<sub>3</sub> + HOI + (1)O<sub>2</sub>. The laboratory-derived reaction rate coefficients are corroborated by theory and shown to explain field observations of daytime HIO<sub>3</sub> in the remote lower free troposphere. The mechanism provides a missing link between iodine sources and particle formation. Because particulate iodate is readily reduced, recycling iodine back into the gas phase, our results suggest a catalytic role of iodine in aerosol formation.</p>
+      <p><em>H. Finkenzeller<sup>+</sup>*, S. Iyer<sup>+</sup>, <strong>X.-C. He</strong>, …, T. Kurten, M.P. Rissanen, R. Volkamer*</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41557-022-01067-z">Nature Chemistry (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Role of iodine oxoacids in atmospheric aerosol nucleation</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/IOAP_mechanisms.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>Iodine species are one of only a handful of atmospheric vapors known to make new aerosol particles, which play a central role in controlling the radiative forcing of climate. He et al. report experimental evidence from the CERN Cosmics Leaving Outdoor Droplets, or CLOUD, chamber demonstrating that iodic acid and iodous acid rapidly form new particles and can compete with sulfuric acid in pristine regions.</p>
+      <p><em><strong>X.-C. He</strong>*, Y.J. Tham, L. Dada, …, J. Kirkby*, D.R. Worsnop, M. Sipila*</em></p>
+      <p><strong><a href="https://science.sciencemag.org/content/371/6529/589">Science 371, 6529 (2021)</a></strong></p>
+      <p class="text-danger"><strong> See also <a href="https://www.youtube.com/watch?v=THj_Xkid7oQ&amp;t=1s">Interview with Jasper</a></strong></p>
+      <p> </p>
+    </div>
+  </div>
+
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+<div class="row">
 
-{% if even_odd == 1 %}
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Determination of the collision rate coefficient between charged iodic acid clusters and iodic acid using the appearance time method</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/IA_clusters.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>Ions enhance the formation rate of atmospheric aerosol particles, which play an important role in Earth’s radiative balance. Although theoretical frameworks exist to calculate the collision rate coefficients between neutral molecules and ions, they need to be experimentally confirmed, ideally under atmospherically relevant conditions of around 1000 ion pairs cm<sup>-3</sup>$. Here, in experiments performed under atmospheric conditions in the CERN CLOUD chamber, we have measured the collision rate coefficients between neutral iodic acid (HIO<sub>3</sub>) monomers and charged iodic acid molecular clusters containing up to 11 iodine atoms. Three methods were analytically derived to calculate ion-polar molecule collision rate coefficients.</p>
+      <p><em><strong>X.-C. He</strong>*, S. Iyer, M. Sipila, …, J. Kirkby*, T. Kurten, M. Kulmala</em></p>
+      <p><strong><a href="https://doi.org/10.1080/02786826.2020.1839013">Aerosol Science and Technology 55, 2 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Measurement of iodine species and sulfuric acid using bromide chemical ionization mass spectrometers</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/BrCIMS_peaks.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>Iodine species are important in the marine atmosphere for oxidation and new-particle formation. Here, we describe the application of a bromide chemical ionization mass spectrometer (Br-CIMS) to measure iodine species. We have measured gas-phase iodine species and sulfuric acid using two BrCIMS. From offline calibrations and intercomparisons with other instruments, we have quantified the sensitivities of the Br-MIONCIMS to HOI, I<sub>2</sub>, and H<sub>2</sub>SO<sub>4</sub> and obtained detection limits of 5.8 × 10<sup>6</sup>, 3.8 × 10<sup>5</sup>, and 2.0 × 10<sup>5</sup> molec. cm<sup>−3</sup>, respectively, for a 2 min integration time.</p>
+      <p><em>M. Wang<sup>+</sup>, <strong>X.-C. He</strong><sup>+</sup>*, H. Finkenzeller, …, Y.J. Tham*, N.M. Donahue, M. Sipila</em></p>
+      <p><strong><a href="https://amt.copernicus.org/articles/14/4187/2021/">Atmospheric Measurement Techniques 14, 6 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
 </div>
-{% endif %}
 
-{% endif %}
-{% endfor %}
+<div class="row">
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Direct field evidence of autocatalytic iodine release from atmospheric aerosol</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/ICl_aerosol_surface.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>The postulation that heterogeneous cycling of reactive iodine on aerosols may significantly influence the lifetime of ozone in the troposphere not only remains poorly understood but also heretofore has never been observed or quantified in the field. Here, we report direct ambient observations of hypoiodous acid (HOI) and heterogeneous recycling of interhalogen product species (i.e., iodine monochloride [ICl] and iodine monobromide [IBr]) in a midlatitude coastal environment. Significant levels of ICl and IBr with mean daily maxima of 4.3 and 3.0 parts per trillion by volume (1-min average), respectively, have been observed throughout the campaign. We show that the heterogeneous reaction of HOI on marine aerosol and subsequent production of iodine interhalogens are much faster than previously thought.</p>
+      <p><em>Y.J. Tham, <strong>X.-C. He</strong>, Q. Li, …, M. Dal Maso, A. Saiz-Lopez*, M. Sipila*</em></p>
+      <p><strong><a href="http://www.pnas.org/lookup/doi/10.1073/pnas.2009951118">Proceedings of the National Academy of Sciences 118, 4 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
 </div>
-{% endif %}
 
-## List of highlights 
-**Equal contribution (<sup>+</sup>) and corresponding author (*)**
-{% for publi in site.data.publist %}
+<h2 id="list-of-highlights">List of highlights</h2>
+<p><strong>Equal contribution (<sup>+</sup>) and corresponding author (*)</strong></p>
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+<p>The gas-phase formation mechanism of iodic acid as an atmospheric aerosol source <br />
+  <em>H. Finkenzeller<sup>+</sup>*, S. Iyer<sup>+</sup>, <strong>X.-C. He</strong>, …, T. Kurten, M.P. Rissanen, R. Volkamer* </em><br /><a href="https://www.nature.com/articles/s41557-022-01067-z">Nature Chemistry (2022)</a></p>
 
-{% endfor %}
+<p>Critical Role of Iodous Acid in Neutral Iodine Oxoacid Nucleation <br />
+  <em>R. Zhang, H.-B. Xie*, F. Ma., …, M. Sipila, M. Kulmala, <strong>X.-C. He</strong>* </em><br /><a href="https://pubs.acs.org/doi/10.1021/acs.est.2c04328">Environmental Science and Technology 56, 19 (2022)</a></p>
 
-## Full list of publications 
+<p>Role of iodine oxoacids in atmospheric aerosol nucleation <br />
+  <em><strong>X.-C. He</strong>*, Y.J. Tham, L. Dada, …, J. Kirkby*, D.R. Worsnop, M. Sipila* </em><br /><a href="https://science.sciencemag.org/content/371/6529/589">Science 371, 6529 (2021)</a></p>
+
+<p>Determination of the collision rate coefficient between charged iodic acid clusters and iodic acid using the appearance time method <br />
+  <em><strong>X.-C. He</strong>*, S. Iyer, M. Sipila, …, J. Kirkby*, T. Kurten, M. Kulmala </em><br /><a href="https://doi.org/10.1080/02786826.2020.1839013">Aerosol Science and Technology 55, 2 (2021)</a></p>
+
+<p>Measurement of iodine species and sulfuric acid using bromide chemical ionization mass spectrometers <br />
+  <em>M. Wang<sup>+</sup>, <strong>X.-C. He</strong><sup>+</sup>*, H. Finkenzeller, …, Y.J. Tham*, N.M. Donahue, M. Sipila </em><br /><a href="https://amt.copernicus.org/articles/14/4187/2021/">Atmospheric Measurement Techniques 14, 6 (2021)</a></p>
+
+<p>Direct field evidence of autocatalytic iodine release from atmospheric aerosol <br />
+  <em>Y.J. Tham, <strong>X.-C. He</strong>, Q. Li, …, M. Dal Maso, A. Saiz-Lopez*, M. Sipila* </em><br /><a href="http://www.pnas.org/lookup/doi/10.1073/pnas.2009951118">Proceedings of the National Academy of Sciences 118, 4 (2021)</a></p>
+
+<h2 id="full-list-of-publications">Full list of publications</h2>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Bibliography</title>
 </head>
 <body>
 <div class="csl-bib-body" style="line-height: 1.35; ">
-  <div class="csl-entry" style="clear: left; ">
-    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(35) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">Finkenzeller, H., Iyer, S., He, X.-C., Simon, M., Koenig, T. K., Lee, C. F., Valiev, R., Hofbauer, V., Amorim, A., Baalbaki, R., Baccarini, A., Beck, L., Bell, D. M., Caudillo, L., Chen, D., Chiu, R., Chu, B., Dada, L., Duplissy, J., Heinritzi, M., Kemppainen, D., Kim, C., Krechmer, J., Kürten, A., Kvashnin, A., Lamkaddam, H., Lee, C. P., Lehtipalo, K., Li, Z., Makhmutov, V., Manninen, H. E., Marie, G., Marten, R., Mauldin, R. L., Mentler, B., Müller, T., Petäjä, T., Philippov, M., Ranjithkumar, A., Rörup, B., Shen, J., Stolzenburg, D., Tauber, C., Tham, Y. J., Tomé, A., Vazquez-Pufleau, M., Wagner, A. C., Wang, D. S., Wang, M., Wang, Y., Weber, S. K., Nie, W., Wu, Y., Xiao, M., Ye, Q., Zauner-Wieczorek, M., Hansel, A., Baltensperger, U., Brioude, J., Curtius, J., Donahue, N. M., Haddad, I. E., Flagan, R. C., Kulmala, M., Kirkby, J., Sipilä, M., Worsnop, D. R., Kurten, T., Rissanen, M., Volkamer, R., The Gas-Phase Formation Mechanism of Iodic Acid as an Atmospheric Aerosol Source. <i>Nat. Chem.</i>, <b>2022</b> DOI: http://dx.doi.org/<a href="https://doi.org/10.1038/s41557-022-01067-z">10.1038/s41557-022-01067-z</a>.</div>
-  </div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1038%2Fs41557-022-01067-z&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20gas-phase%20formation%20mechanism%20of%20iodic%20acid%20as%20an%20atmospheric%20aerosol%20source&amp;rft.jtitle=Nature%20Chemistry&amp;rft.stitle=Nat.%20Chem.&amp;rft.aufirst=Henning&amp;rft.aulast=Finkenzeller&amp;rft.au=Henning%20Finkenzeller&amp;rft.au=Siddharth%20Iyer&amp;rft.au=Xu-Cheng%20He&amp;rft.au=Mario%20Simon&amp;rft.au=Theodore%20K.%20Koenig&amp;rft.au=Christopher%20F.%20Lee&amp;rft.au=Rashid%20Valiev&amp;rft.au=Victoria%20Hofbauer&amp;rft.au=Antonio%20Amorim&amp;rft.au=Rima%20Baalbaki&amp;rft.au=Andrea%20Baccarini&amp;rft.au=Lisa%20Beck&amp;rft.au=David%20M.%20Bell&amp;rft.au=Luc%C3%ADa%20Caudillo&amp;rft.au=Dexian%20Chen&amp;rft.au=Randall%20Chiu&amp;rft.au=Biwu%20Chu&amp;rft.au=Lubna%20Dada&amp;rft.au=Jonathan%20Duplissy&amp;rft.au=Martin%20Heinritzi&amp;rft.au=Deniz%20Kemppainen&amp;rft.au=Changhyuk%20Kim&amp;rft.au=Jordan%20Krechmer&amp;rft.au=Andreas%20K%C3%BCrten&amp;rft.au=Alexandr%20Kvashnin&amp;rft.au=Houssni%20Lamkaddam&amp;rft.au=Chuan%20Ping%20Lee&amp;rft.au=Katrianne%20Lehtipalo&amp;rft.au=Zijun%20Li&amp;rft.au=Vladimir%20Makhmutov&amp;rft.au=Hanna%20E.%20Manninen&amp;rft.au=Guillaume%20Marie&amp;rft.au=Ruby%20Marten&amp;rft.au=Roy%20L.%20Mauldin&amp;rft.au=Bernhard%20Mentler&amp;rft.au=Tatjana%20M%C3%BCller&amp;rft.au=Tuukka%20Pet%C3%A4j%C3%A4&amp;rft.au=Maxim%20Philippov&amp;rft.au=Ananth%20Ranjithkumar&amp;rft.au=Birte%20R%C3%B6rup&amp;rft.au=Jiali%20Shen&amp;rft.au=Dominik%20Stolzenburg&amp;rft.au=Christian%20Tauber&amp;rft.au=Yee%20Jun%20Tham&amp;rft.au=Ant%C3%B3nio%20Tom%C3%A9&amp;rft.au=Miguel%20Vazquez-Pufleau&amp;rft.au=Andrea%20C.%20Wagner&amp;rft.au=Dongyu%20S.%20Wang&amp;rft.au=Mingyi%20Wang&amp;rft.au=Yonghong%20Wang&amp;rft.au=Stefan%20K.%20Weber&amp;rft.au=Wei%20Nie&amp;rft.au=Yusheng%20Wu&amp;rft.au=Mao%20Xiao&amp;rft.au=Qing%20Ye&amp;rft.au=Marcel%20Zauner-Wieczorek&amp;rft.au=Armin%20Hansel&amp;rft.au=Urs%20Baltensperger&amp;rft.au=J%C3%A9rome%20Brioude&amp;rft.au=Joachim%20Curtius&amp;rft.au=Neil%20M.%20Donahue&amp;rft.au=Imad%20El%20Haddad&amp;rft.au=Richard%20C.%20Flagan&amp;rft.au=Markku%20Kulmala&amp;rft.au=Jasper%20Kirkby&amp;rft.au=Mikko%20Sipil%C3%A4&amp;rft.au=Douglas%20R.%20Worsnop&amp;rft.au=Theo%20Kurten&amp;rft.au=Matti%20Rissanen&amp;rft.au=Rainer%20Volkamer&amp;rft.date=2022-11-14&amp;rft.issn=1755-4330%2C%201755-4349&amp;rft.language=en"></span>
-  <div class="csl-entry" style="clear: left; ">
-    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(34) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">Zhang, R., Xie, H.-B., Ma, F., Chen, J., Iyer, S., Simon, M., Heinritzi, M., Shen, J., Tham, Y. J., Kurtén, T., Worsnop, D. R., Kirkby, J., Curtius, J., Sipilä, M., Kulmala, M., He, X.-C., Critical Role of Iodous Acid in Neutral Iodine Oxoacid Nucleation. <i>Environ. Sci. Technol.</i>, <b>2022</b>, <i>56</i>, 14166–14177
- DOI: http://dx.doi.org/<a href="https://doi.org/10.1021/acs.est.2c04328">10.1021/acs.est.2c04328</a>.</div>
-  </div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1021%2Facs.est.2c04328&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Critical%20Role%20of%20Iodous%20Acid%20in%20Neutral%20Iodine%20Oxoacid%20Nucleation&amp;rft.jtitle=Environmental%20Science%20%26%20Technology&amp;rft.stitle=Environ.%20Sci.%20Technol.&amp;rft.volume=56&amp;rft.issue=19&amp;rft.aufirst=Rongjie&amp;rft.aulast=Zhang&amp;rft.au=Rongjie%20Zhang&amp;rft.au=Hong-Bin%20Xie&amp;rft.au=Fangfang%20Ma&amp;rft.au=Jingwen%20Chen&amp;rft.au=Siddharth%20Iyer&amp;rft.au=Mario%20Simon&amp;rft.au=Martin%20Heinritzi&amp;rft.au=Jiali%20Shen&amp;rft.au=Yee%20Jun%20Tham&amp;rft.au=Theo%20Kurt%C3%A9n&amp;rft.au=Douglas%20R.%20Worsnop&amp;rft.au=Jasper%20Kirkby&amp;rft.au=Joachim%20Curtius&amp;rft.au=Mikko%20Sipil%C3%A4&amp;rft.au=Markku%20Kulmala&amp;rft.au=Xu-Cheng%20He&amp;rft.date=2022-10-04&amp;rft.pages=14166-14177&amp;rft.spage=14166&amp;rft.epage=14177&amp;rft.issn=0013-936X%2C%201520-5851&amp;rft.language=en"></span>
-  <div class="csl-entry" style="clear: left; ">
-    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(33) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">Shen, J., Scholz, W., He, X.-C., Zhou, P., Marie, G., Wang, M., Marten, R., Surdu, M., Rörup, B., Baalbaki, R., Amorim, A., Ataei, F., Bell, D. M., Bertozzi, B., Brasseur, Z., Caudillo, L., Chen, D., Chu, B., Dada, L., Duplissy, J., Finkenzeller, H., Granzin, M., Guida, R., Heinritzi, M., Hofbauer, V., Iyer, S., Kemppainen, D., Kong, W., Krechmer, J. E., Kürten, A., Lamkaddam, H., Lee, C. P., Lopez, B., Mahfouz, N. G. A., Manninen, H. E., Massabò, D., Mauldin, R. L., Mentler, B., Müller, T., Pfeifer, J., Philippov, M., Piedehierro, A. A., Roldin, P., Schobesberger, S., Simon, M., Stolzenburg, D., Tham, Y. J., Tomé, A., Umo, N. S., Wang, D., Wang, Y., Weber, S. K., Welti, A., Wollesen de Jonge, R., Wu, Y., Zauner-Wieczorek, M., Zust, F., Baltensperger, U., Curtius, J., Flagan, R. C., Hansel, A., Möhler, O., Petäjä, T., Volkamer, R., Kulmala, M., Lehtipalo, K., Rissanen, M., Kirkby, J., El-Haddad, I., Bianchi, F., Sipilä, M., Donahue, N. M., Worsnop, D. R., High Gas-Phase Methanesulfonic Acid Production in the OH-Initiated Oxidation of Dimethyl Sulfide at Low Temperatures. <i>Environ. Sci. Technol.</i>, <b>2022</b>, acs.est.2c05154
- DOI: http://dx.doi.org/<a href="https://doi.org/10.1021/acs.est.2c05154">10.1021/acs.est.2c05154</a>.</div>
-  </div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1021%2Facs.est.2c05154&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=High%20Gas-Phase%20Methanesulfonic%20Acid%20Production%20in%20the%20OH-Initiated%20Oxidation%20of%20Dimethyl%20Sulfide%20at%20Low%20Temperatures&amp;rft.jtitle=Environmental%20Science%20%26%20Technology&amp;rft.stitle=Environ.%20Sci.%20Technol.&amp;rft.aufirst=Jiali&amp;rft.aulast=Shen&amp;rft.au=Jiali%20Shen&amp;rft.au=Wiebke%20Scholz&amp;rft.au=Xu-Cheng%20He&amp;rft.au=Putian%20Zhou&amp;rft.au=Guillaume%20Marie&amp;rft.au=Mingyi%20Wang&amp;rft.au=Ruby%20Marten&amp;rft.au=Mihnea%20Surdu&amp;rft.au=Birte%20R%C3%B6rup&amp;rft.au=Rima%20Baalbaki&amp;rft.au=Antonio%20Amorim&amp;rft.au=Farnoush%20Ataei&amp;rft.au=David%20M.%20Bell&amp;rft.au=Barbara%20Bertozzi&amp;rft.au=Zo%C3%A9%20Brasseur&amp;rft.au=Luc%C3%ADa%20Caudillo&amp;rft.au=Dexian%20Chen&amp;rft.au=Biwu%20Chu&amp;rft.au=Lubna%20Dada&amp;rft.au=Jonathan%20Duplissy&amp;rft.au=Henning%20Finkenzeller&amp;rft.au=Manuel%20Granzin&amp;rft.au=Roberto%20Guida&amp;rft.au=Martin%20Heinritzi&amp;rft.au=Victoria%20Hofbauer&amp;rft.au=Siddharth%20Iyer&amp;rft.au=Deniz%20Kemppainen&amp;rft.au=Weimeng%20Kong&amp;rft.au=Jordan%20E.%20Krechmer&amp;rft.au=Andreas%20K%C3%BCrten&amp;rft.au=Houssni%20Lamkaddam&amp;rft.au=Chuan%20Ping%20Lee&amp;rft.au=Brandon%20Lopez&amp;rft.au=Naser%20G.%20A.%20Mahfouz&amp;rft.au=Hanna%20E.%20Manninen&amp;rft.au=Dario%20Massab%C3%B2&amp;rft.au=Roy%20L.%20Mauldin&amp;rft.au=Bernhard%20Mentler&amp;rft.au=Tatjana%20M%C3%BCller&amp;rft.au=Joschka%20Pfeifer&amp;rft.au=Maxim%20Philippov&amp;rft.au=Ana%20A.%20Piedehierro&amp;rft.au=Pontus%20Roldin&amp;rft.au=Siegfried%20Schobesberger&amp;rft.au=Mario%20Simon&amp;rft.au=Dominik%20Stolzenburg&amp;rft.au=Yee%20Jun%20Tham&amp;rft.au=Ant%C3%B3nio%20Tom%C3%A9&amp;rft.au=Nsikanabasi%20Silas%20Umo&amp;rft.au=Dongyu%20Wang&amp;rft.au=Yonghong%20Wang&amp;rft.au=Stefan%20K.%20Weber&amp;rft.au=Andr%C3%A9%20Welti&amp;rft.au=Robin%20Wollesen%20de%20Jonge&amp;rft.au=Yusheng%20Wu&amp;rft.au=Marcel%20Zauner-Wieczorek&amp;rft.au=Felix%20Zust&amp;rft.au=Urs%20Baltensperger&amp;rft.au=Joachim%20Curtius&amp;rft.au=Richard%20C.%20Flagan&amp;rft.au=Armin%20Hansel&amp;rft.au=Ottmar%20M%C3%B6hler&amp;rft.au=Tuukka%20Pet%C3%A4j%C3%A4&amp;rft.au=Rainer%20Volkamer&amp;rft.au=Markku%20Kulmala&amp;rft.au=Katrianne%20Lehtipalo&amp;rft.au=Matti%20Rissanen&amp;rft.au=Jasper%20Kirkby&amp;rft.au=Imad%20El-Haddad&amp;rft.au=Federico%20Bianchi&amp;rft.au=Mikko%20Sipil%C3%A4&amp;rft.au=Neil%20M.%20Donahue&amp;rft.au=Douglas%20R.%20Worsnop&amp;rft.date=2022-09-22&amp;rft.pages=acs.est.2c05154&amp;rft.issn=0013-936X%2C%201520-5851&amp;rft.language=en"></span>
   <div class="csl-entry" style="clear: left; ">
     <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(32) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">Beck, L. J., Schobesberger, S., Junninen, H., Lampilahti, J., Manninen, A., Dada, L., Leino, K., He, X.-C., Pullinen, I., Quéléver, L. L. J., Franck, A., Poutanen, P., Wimmer, D., Korhonen, F., Sipilä, M., Ehn, M., Worsnop, D. R., Kerminen, V.-M., Petäjä, T., Kulmala, M., Duplissy, J., Diurnal Evolution of Negative Atmospheric Ions above the Boreal Forest: From Ground Level to the Free Troposphere. <i>Atmos. Chem. Phys.</i>, <b>2022</b>, <i>22</i>, 8547–8577
  DOI: http://dx.doi.org/<a href="https://doi.org/10.5194/acp-22-8547-2022">10.5194/acp-22-8547-2022</a>.</div>
   </div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.5194%2Facp-22-8547-2022&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diurnal%20evolution%20of%20negative%20atmospheric%20ions%20above%20the%20boreal%20forest%3A%20from%20ground%20level%20to%20the%20free%20troposphere&amp;rft.jtitle=Atmospheric%20Chemistry%20and%20Physics&amp;rft.stitle=Atmos.%20Chem.%20Phys.&amp;rft.volume=22&amp;rft.issue=13&amp;rft.aufirst=Lisa%20J.&amp;rft.aulast=Beck&amp;rft.au=Lisa%20J.%20Beck&amp;rft.au=Siegfried%20Schobesberger&amp;rft.au=Heikki%20Junninen&amp;rft.au=Janne%20Lampilahti&amp;rft.au=Antti%20Manninen&amp;rft.au=Lubna%20Dada&amp;rft.au=Katri%20Leino&amp;rft.au=Xu-Cheng%20He&amp;rft.au=Iida%20Pullinen&amp;rft.au=Lauriane%20L.%20J.%20Qu%C3%A9l%C3%A9ver&amp;rft.au=Anna%20Franck&amp;rft.au=Pyry%20Poutanen&amp;rft.au=Daniela%20Wimmer&amp;rft.au=Frans%20Korhonen&amp;rft.au=Mikko%20Sipil%C3%A4&amp;rft.au=Mikael%20Ehn&amp;rft.au=Douglas%20R.%20Worsnop&amp;rft.au=Veli-Matti%20Kerminen&amp;rft.au=Tuukka%20Pet%C3%A4j%C3%A4&amp;rft.au=Markku%20Kulmala&amp;rft.au=Jonathan%20Duplissy&amp;rft.date=2022-07-05&amp;rft.pages=8547-8577&amp;rft.spage=8547&amp;rft.epage=8577&amp;rft.issn=1680-7324&amp;rft.language=en"></span>
   <div class="csl-entry" style="clear: left; ">
-    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(31) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">Wang, M., Xiao, M., Bertozzi, B., Marie, G., Rörup, B., Schulze, B., Bardakov, R., He, X.-C., Shen, J., Scholz, W., Marten, R., Dada, L., Baalbaki, R., Lopez, B., Lamkaddam, H., Manninen, H. E., Amorim, A., Ataei, F., Bogert, P., Brasseur, Z., Caudillo, L., De Menezes, L.-P., Duplissy, J., Ekman, A. M. L., Finkenzeller, H., Carracedo, L. G., Granzin, M., Guida, R., Heinritzi, M., Hofbauer, V., Höhler, K., Korhonen, K., Krechmer, J. E., Kürten, A., Lehtipalo, K., Mahfouz, N. G. A., Makhmutov, V., Massabò, D., Mathot, S., Mauldin, R. L., Mentler, B., Müller, T., Onnela, A., Petäjä, T., Philippov, M., Piedehierro, A. A., Pozzer, A., Ranjithkumar, A., Schervish, M., Schobesberger, S., Simon, M., Stozhkov, Y., Tomé, A., Umo, N. S., Vogel, F., Wagner, R., Wang, D. S., Weber, S. K., Welti, A., Wu, Y., Zauner-Wieczorek, M., Sipilä, M., Winkler, P. M., Hansel, A., Baltensperger, U., Kulmala, M., Flagan, R. C., Curtius, J., Riipinen, I., Gordon, H., Lelieveld, J., El-Haddad, I., Volkamer, R., Worsnop, D. R., Christoudias, T., Kirkby, J., Möhler, O., Donahue, N. M., Synergistic HNO<sub>3</sub>–H<sub>2</sub>SO<sub>4</sub>–NH<sub>3</sub> Upper Tropospheric Particle Formation. <i>Nature</i>, <b>2022</b>, <i>605</i>, 483–489
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(31) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">Wang, M., Xiao, M., Bertozzi, B., Marie, G., Rörup, B., Schulze, B., Bardakov, R., He, X.-C., Shen, J., Scholz, W., Marten, R., Dada, L., Baalbaki, R., Lopez, B., Lamkaddam, H., Manninen, H. E., Amorim, A., Ataei, F., Bogert, P., Brasseur, Z., Caudillo, L., De Menezes, L.-P., Duplissy, J., Ekman, A. M. L., Finkenzeller, H., Carracedo, L. G., Granzin, M., Guida, R., Heinritzi, M., Hofbauer, V., Höhler, K., Korhonen, K., Krechmer, J. E., Kürten, A., Lehtipalo, K., Mahfouz, N. G. A., Makhmutov, V., Massabò, D., Mathot, S., Mauldin, R. L., Mentler, B., Müller, T., Onnela, A., Petäjä, T., Philippov, M., Piedehierro, A. A., Pozzer, A., Ranjithkumar, A., Schervish, M., Schobesberger, S., Simon, M., Stozhkov, Y., Tomé, A., Umo, N. S., Vogel, F., Wagner, R., Wang, D. S., Weber, S. K., Welti, A., Wu, Y., Zauner-Wieczorek, M., Sipilä, M., Winkler, P. M., Hansel, A., Baltensperger, U., Kulmala, M., Flagan, R. C., Curtius, J., Riipinen, I., Gordon, H., Lelieveld, J., El-Haddad, I., Volkamer, R., Worsnop, D. R., Christoudias, T., Kirkby, J., Möhler, O., Donahue, N. M., Synergistic HNO3–H2SO4–NH3 Upper Tropospheric Particle Formation. <i>Nature</i>, <b>2022</b>, <i>605</i>, 483–489
  DOI: http://dx.doi.org/<a href="https://doi.org/10.1038/s41586-022-04605-4">10.1038/s41586-022-04605-4</a>.</div>
   </div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1038%2Fs41586-022-04605-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Synergistic%20HNO%3Csub%3E3%3C%2Fsub%3E%E2%80%93H%3Csub%3E2%3C%2Fsub%3ESO%3Csub%3E4%3C%2Fsub%3E%E2%80%93NH%3Csub%3E3%3C%2Fsub%3E%20upper%20tropospheric%20particle%20formation&amp;rft.jtitle=Nature&amp;rft.stitle=Nature&amp;rft.volume=605&amp;rft.issue=7910&amp;rft.aufirst=Mingyi&amp;rft.aulast=Wang&amp;rft.au=Mingyi%20Wang&amp;rft.au=Mao%20Xiao&amp;rft.au=Barbara%20Bertozzi&amp;rft.au=Guillaume%20Marie&amp;rft.au=Birte%20R%C3%B6rup&amp;rft.au=Benjamin%20Schulze&amp;rft.au=Roman%20Bardakov&amp;rft.au=Xu-Cheng%20He&amp;rft.au=Jiali%20Shen&amp;rft.au=Wiebke%20Scholz&amp;rft.au=Ruby%20Marten&amp;rft.au=Lubna%20Dada&amp;rft.au=Rima%20Baalbaki&amp;rft.au=Brandon%20Lopez&amp;rft.au=Houssni%20Lamkaddam&amp;rft.au=Hanna%20E.%20Manninen&amp;rft.au=Ant%C3%B3nio%20Amorim&amp;rft.au=Farnoush%20Ataei&amp;rft.au=Pia%20Bogert&amp;rft.au=Zo%C3%A9%20Brasseur&amp;rft.au=Luc%C3%ADa%20Caudillo&amp;rft.au=Louis-Philippe%20De%20Menezes&amp;rft.au=Jonathan%20Duplissy&amp;rft.au=Annica%20M.%20L.%20Ekman&amp;rft.au=Henning%20Finkenzeller&amp;rft.au=Lo%C3%AFc%20Gonzalez%20Carracedo&amp;rft.au=Manuel%20Granzin&amp;rft.au=Roberto%20Guida&amp;rft.au=Martin%20Heinritzi&amp;rft.au=Victoria%20Hofbauer&amp;rft.au=Kristina%20H%C3%B6hler&amp;rft.au=Kimmo%20Korhonen&amp;rft.au=Jordan%20E.%20Krechmer&amp;rft.au=Andreas%20K%C3%BCrten&amp;rft.au=Katrianne%20Lehtipalo&amp;rft.au=Naser%20G.%20A.%20Mahfouz&amp;rft.au=Vladimir%20Makhmutov&amp;rft.au=Dario%20Massab%C3%B2&amp;rft.au=Serge%20Mathot&amp;rft.au=Roy%20L.%20Mauldin&amp;rft.au=Bernhard%20Mentler&amp;rft.au=Tatjana%20M%C3%BCller&amp;rft.au=Antti%20Onnela&amp;rft.au=Tuukka%20Pet%C3%A4j%C3%A4&amp;rft.au=Maxim%20Philippov&amp;rft.au=Ana%20A.%20Piedehierro&amp;rft.au=Andrea%20Pozzer&amp;rft.au=Ananth%20Ranjithkumar&amp;rft.au=Meredith%20Schervish&amp;rft.au=Siegfried%20Schobesberger&amp;rft.au=Mario%20Simon&amp;rft.au=Yuri%20Stozhkov&amp;rft.au=Ant%C3%B3nio%20Tom%C3%A9&amp;rft.au=Nsikanabasi%20Silas%20Umo&amp;rft.au=Franziska%20Vogel&amp;rft.au=Robert%20Wagner&amp;rft.au=Dongyu%20S.%20Wang&amp;rft.au=Stefan%20K.%20Weber&amp;rft.au=Andr%C3%A9%20Welti&amp;rft.au=Yusheng%20Wu&amp;rft.au=Marcel%20Zauner-Wieczorek&amp;rft.au=Mikko%20Sipil%C3%A4&amp;rft.au=Paul%20M.%20Winkler&amp;rft.au=Armin%20Hansel&amp;rft.au=Urs%20Baltensperger&amp;rft.au=Markku%20Kulmala&amp;rft.au=Richard%20C.%20Flagan&amp;rft.au=Joachim%20Curtius&amp;rft.au=Ilona%20Riipinen&amp;rft.au=Hamish%20Gordon&amp;rft.au=Jos%20Lelieveld&amp;rft.au=Imad%20El-Haddad&amp;rft.au=Rainer%20Volkamer&amp;rft.au=Douglas%20R.%20Worsnop&amp;rft.au=Theodoros%20Christoudias&amp;rft.au=Jasper%20Kirkby&amp;rft.au=Ottmar%20M%C3%B6hler&amp;rft.au=Neil%20M.%20Donahue&amp;rft.date=2022-05-19&amp;rft.pages=483-489&amp;rft.spage=483&amp;rft.epage=489&amp;rft.issn=0028-0836%2C%201476-4687&amp;rft.language=en"></span>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1038%2Fs41586-022-04605-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Synergistic%20HNO3%E2%80%93H2SO4%E2%80%93NH3%20upper%20tropospheric%20particle%20formation&amp;rft.jtitle=Nature&amp;rft.stitle=Nature&amp;rft.volume=605&amp;rft.issue=7910&amp;rft.aufirst=Mingyi&amp;rft.aulast=Wang&amp;rft.au=Mingyi%20Wang&amp;rft.au=Mao%20Xiao&amp;rft.au=Barbara%20Bertozzi&amp;rft.au=Guillaume%20Marie&amp;rft.au=Birte%20R%C3%B6rup&amp;rft.au=Benjamin%20Schulze&amp;rft.au=Roman%20Bardakov&amp;rft.au=Xu-Cheng%20He&amp;rft.au=Jiali%20Shen&amp;rft.au=Wiebke%20Scholz&amp;rft.au=Ruby%20Marten&amp;rft.au=Lubna%20Dada&amp;rft.au=Rima%20Baalbaki&amp;rft.au=Brandon%20Lopez&amp;rft.au=Houssni%20Lamkaddam&amp;rft.au=Hanna%20E.%20Manninen&amp;rft.au=Ant%C3%B3nio%20Amorim&amp;rft.au=Farnoush%20Ataei&amp;rft.au=Pia%20Bogert&amp;rft.au=Zo%C3%A9%20Brasseur&amp;rft.au=Luc%C3%ADa%20Caudillo&amp;rft.au=Louis-Philippe%20De%20Menezes&amp;rft.au=Jonathan%20Duplissy&amp;rft.au=Annica%20M.%20L.%20Ekman&amp;rft.au=Henning%20Finkenzeller&amp;rft.au=Lo%C3%AFc%20Gonzalez%20Carracedo&amp;rft.au=Manuel%20Granzin&amp;rft.au=Roberto%20Guida&amp;rft.au=Martin%20Heinritzi&amp;rft.au=Victoria%20Hofbauer&amp;rft.au=Kristina%20H%C3%B6hler&amp;rft.au=Kimmo%20Korhonen&amp;rft.au=Jordan%20E.%20Krechmer&amp;rft.au=Andreas%20K%C3%BCrten&amp;rft.au=Katrianne%20Lehtipalo&amp;rft.au=Naser%20G.%20A.%20Mahfouz&amp;rft.au=Vladimir%20Makhmutov&amp;rft.au=Dario%20Massab%C3%B2&amp;rft.au=Serge%20Mathot&amp;rft.au=Roy%20L.%20Mauldin&amp;rft.au=Bernhard%20Mentler&amp;rft.au=Tatjana%20M%C3%BCller&amp;rft.au=Antti%20Onnela&amp;rft.au=Tuukka%20Pet%C3%A4j%C3%A4&amp;rft.au=Maxim%20Philippov&amp;rft.au=Ana%20A.%20Piedehierro&amp;rft.au=Andrea%20Pozzer&amp;rft.au=Ananth%20Ranjithkumar&amp;rft.au=Meredith%20Schervish&amp;rft.au=Siegfried%20Schobesberger&amp;rft.au=Mario%20Simon&amp;rft.au=Yuri%20Stozhkov&amp;rft.au=Ant%C3%B3nio%20Tom%C3%A9&amp;rft.au=Nsikanabasi%20Silas%20Umo&amp;rft.au=Franziska%20Vogel&amp;rft.au=Robert%20Wagner&amp;rft.au=Dongyu%20S.%20Wang&amp;rft.au=Stefan%20K.%20Weber&amp;rft.au=Andr%C3%A9%20Welti&amp;rft.au=Yusheng%20Wu&amp;rft.au=Marcel%20Zauner-Wieczorek&amp;rft.au=Mikko%20Sipil%C3%A4&amp;rft.au=Paul%20M.%20Winkler&amp;rft.au=Armin%20Hansel&amp;rft.au=Urs%20Baltensperger&amp;rft.au=Markku%20Kulmala&amp;rft.au=Richard%20C.%20Flagan&amp;rft.au=Joachim%20Curtius&amp;rft.au=Ilona%20Riipinen&amp;rft.au=Hamish%20Gordon&amp;rft.au=Jos%20Lelieveld&amp;rft.au=Imad%20El-Haddad&amp;rft.au=Rainer%20Volkamer&amp;rft.au=Douglas%20R.%20Worsnop&amp;rft.au=Theodoros%20Christoudias&amp;rft.au=Jasper%20Kirkby&amp;rft.au=Ottmar%20M%C3%B6hler&amp;rft.au=Neil%20M.%20Donahue&amp;rft.date=2022-05-19&amp;rft.pages=483-489&amp;rft.spage=483&amp;rft.epage=489&amp;rft.issn=0028-0836%2C%201476-4687&amp;rft.language=en"></span>
   <div class="csl-entry" style="clear: left; ">
     <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(30) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">Thakur, R. C., Dada, L., Beck, L. J., Quéléver, L. L. J., Chan, T., Marbouti, M., He, X.-C., Xavier, C., Sulo, J., Lampilahti, J., Lampimäki, M., Tham, Y. J., Sarnela, N., Lehtipalo, K., Norkko, A., Kulmala, M., Sipilä, M., Jokinen, T., An Evaluation of New Particle Formation Events in Helsinki during a Baltic Sea Cyanobacterial Summer Bloom. <i>Atmos. Chem. Phys.</i>, <b>2022</b>, <i>22</i>, 6365–6391
  DOI: http://dx.doi.org/<a href="https://doi.org/10.5194/acp-22-6365-2022">10.5194/acp-22-6365-2022</a>.</div>
@@ -233,9 +258,10 @@ permalink: /publications/
   </div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1021%2Facs.jpca.7b01588&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Computational%20and%20Experimental%20Investigation%20of%20the%20Detection%20of%20HO2%20Radical%20and%20the%20Products%20of%20Its%20Reaction%20with%20Cyclohexene%20Ozonolysis%20Derived%20RO2%20Radicals%20by%20an%20Iodide-Based%20Chemical%20Ionization%20Mass%20Spectrometer&amp;rft.jtitle=The%20Journal%20of%20Physical%20Chemistry%20A&amp;rft.volume=121&amp;rft.issue=36&amp;rft.aufirst=Siddharth&amp;rft.aulast=Iyer&amp;rft.au=Siddharth%20Iyer&amp;rft.au=Xucheng%20He&amp;rft.au=Noora%20Hyttinen&amp;rft.au=Theo%20Kurt%C3%A9n&amp;rft.au=Matti%20P.%20Rissanen&amp;rft.date=2017-09-14&amp;rft.pages=6778-6789&amp;rft.spage=6778&amp;rft.epage=6789&amp;rft.issn=1089-5639%2C%201520-5215&amp;rft.language=en"></span>
   <div class="csl-entry" style="clear: left; ">
-    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(1) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">He, X.-C., From the Measurement of Halogenated Species to Iodine Particle Formation, University of Helsinki: Helsinki, 2017.</div>
+    <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 3em;">(1) </div><div class="csl-right-inline" style="margin: 0 .4em 0 3.5em;">He, X., From the Measurement of Halogenated Species to Iodine Particle Formation, University of Helsinki: Helsinki, 2017.</div>
   </div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=From%20the%20measurement%20of%20halogenated%20species%20to%20iodine%20particle%20formation&amp;rft.aufirst=Xu-Cheng&amp;rft.aulast=He&amp;rft.au=Xu-Cheng%20He&amp;rft.date=2017-08-27&amp;rft.tpages=71&amp;rft.language=en"></span>
+  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=From%20the%20measurement%20of%20halogenated%20species%20to%20iodine%20particle%20formation&amp;rft.aufirst=Xucheng&amp;rft.aulast=He&amp;rft.au=Xucheng%20He&amp;rft.date=2017-08-27&amp;rft.tpages=71&amp;rft.language=en"></span>
 </div></body>
 </html>
 
+:ET

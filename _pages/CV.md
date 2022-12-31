@@ -8,7 +8,7 @@ permalink: /CV/
 ### Xu-Cheng He, PhD ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xu-Cheng.jpg){: style="width: 450px; float: left; margin: 0px 10px"}
 ### EDUCATION 
 
-#### 2018 - 2021, PhD in Atmospheric Sciences (Distinction, 10%), University of Helsinki
+#### 2018 - 2021, PhD in Atmospheric Sciences (Distinction), University of Helsinki
 #####  - Advisors: Prof. Markku Kulmala, Prof. Jasper Kirkby, Prof. Mikko Sipilä, Prof. Matti Rissanen, Prof. Theo Kurtén
 
 #### 2015 - 2017, MSc in Atmospheric Sciences, University of Helsinki 
@@ -17,11 +17,11 @@ permalink: /CV/
 #### 2011 - 2015, BSc in Meteorology, Yunnan University
 ##### - Advisor: Dr. Di Zhao
 
-##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [Publons](https://publons.com/researcher/4586969/xu-cheng-he/)
+##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en)
 ### PROFESSIONAL EXPERIENCE
 
 ##### 2022.09 - **present**, post-doctoral researcher at [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/climate-system-research)
-##### 2016.09 - **present**, run coordinator for marine particle formation studies at the [CLOUD](https://home.cern/science/experiments/cloud) project at [CERN](https://home.cern) 
+##### 2017.09 - **present**, run coordinator for marine particle formation studies at the [CLOUD](https://home.cern/science/experiments/cloud) project at [CERN](https://home.cern) 
 ##### 2022.03 - 2022.08, post-doctoral researcher at [Carnegie Mellon University](https://www.cmu.edu)
 ##### 2021.09 - 2022.02, post-doctoral researcher at [University of Helsinki](https://www.helsinki.fi/en)
 ##### 2021.03 - 2021.08, visiting researcher at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm)
@@ -64,7 +64,7 @@ permalink: /CV/
 ##### 2019. Course assistant for the 3rd course on climate science at high latitudes: eScience for linking Arctic measurements and modeling in Abisko
 #### *Supervision*
 ##### **Jiali Shen(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation. I started mentoring her as a senior student and now as a researcher. I work tightly with her since the beginning, conveying my knowledge on instrumentation, kinetic modeling, chamber experiments, scientific writing and other elements needed to be an independent researcher.
-#### *I also work closely with and guide:*
+#### *Mentor for:*
 ##### **Birte Rörup(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to iodine particle formation and aerosol measurements. 
 ##### **Duzitian Li(2021.09-present)**, MSc student at Nanjing University. Topic related to investigating iodine species in polluted urban regions
 ##### **Ying Zhang(2018.09-2022.05)**, graduated MSc student at Beijing University of Chemical Technology. Thesis title: Contribution of inorganic acids containing oxygen in gas-particle process to particle number concentration in urban Beijing 

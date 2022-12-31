@@ -1,4 +1,4 @@
-I"��<h1 id="publications">Publications</h1>
+I"��<h1 id="publications">Publications</h1>
 
 <h2 id="highlights">Highlights</h2>
 
@@ -8,8 +8,36 @@
 
   <div class="col-sm-6 clearfix">
     <div class="well">
+      <pubtit>The gas-phase formation mechanism of iodic acid as an atmospheric aerosol source</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/HIO3_formation_mechanism.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>Iodine is a reactive trace element in atmospheric chemistry that destroys ozone and nucleates particles. Iodine emissions have tripled since 1950 and are projected to keep increasing with rising O<sub>3&lt;\sub&gt; surface concentrations. Although iodic acid (HIO<sub>3</sub>) is widespread and forms particles more efficiently than sulfuric acid, its gas-phase formation mechanism remains unresolved. Here, in CLOUD atmospheric simulation chamber experiments that generate iodine radicals at atmospherically relevant rates, we show that iodooxy hypoiodite, IOIO, is efficiently converted into HIO<sub>3</sub> via reactions (R1) IOIO + O<sub>3</sub> → IOIO<sub>4</sub> and (R2) IOIO<sub>4</sub> + H<sub>2</sub>O → HIO<sub>3</sub> + HOI + (1)O<sub>2</sub>. The laboratory-derived reaction rate coefficients are corroborated by theory and shown to explain field observations of daytime HIO<sub>3</sub> in the remote lower free troposphere. The mechanism provides a missing link between iodine sources and particle formation. Because particulate iodate is readily reduced, recycling iodine back into the gas phase, our results suggest a catalytic role of iodine in aerosol formation.</sub></p>
+      <p><em>H. Finkenzeller, S. Iyer, X.-C. He, …, T. Kurten, M.P. Rissanen, R. Volkamer</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41557-022-01067-z">Nature Chemistry (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Critical Role of Iodous Acid in Neutral Iodine Oxoacid Nucleation</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Critical_role_HIO2_abstract_figure.jpeg" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>The precise role of HIO<sub>2</sub> in iodine oxoacid nucleation remains unclear. In this study, we probe such a role by investigating the cluster formation mechanisms and kinetics of (HIO<sub>3</sub>)m(HIO<sub>2</sub>)n (m = 0–4, n = 0–4) clusters with quantum chemical calculations and atmospheric cluster dynamics modeling. The fastest nucleation rate is predicted for mixed HIO<sub>3</sub>–HIO<sub>2</sub> clusters rather than for pure HIO<sub>3</sub> or HIO<sub>2</sub> ones. Our calculations reveal that the strong binding results from HIO<sub>2</sub> exhibiting a base behavior (accepting a proton from HIO<sub>3</sub>) and forming stronger halogen bonds. Our predicted cluster formation rates and dimer concentrations are acceptably consistent with those measured by the Cosmic Leaving Outdoor Droplets (CLOUD) experiment. This study suggests that HIO<sub>2</sub> could facilitate the nucleation of other acids beyond HIO3 in regions where base vapors such as ammonia or amines are scarce.</p>
+      <p><em>R. Zhang, H.-B. Xie, F. Ma., …, M. Sipila, M. Kulmala, X.-C. He<sup>*&lt;\sup&gt;&lt;/em&gt;</sup></em></p>
+      <p><strong><a href="https://pubs.acs.org/doi/10.1021/acs.est.2c04328">Environmental Science and Technology 56, 19 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
       <pubtit>Role of iodine oxoacids in atmospheric aerosol nucleation</pubtit>
-      <p><img src="https://momo-catcat.github.io/images/pubpic/IOAP_mechanisms.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p><img src="http://localhost:4000/images/pubpic/IOAP_mechanisms.png" class="img-responsive" width="100%" style="float: left" /></p>
       <p>Iodine species are one of only a handful of atmospheric vapors known to make new aerosol particles, which play a central role in controlling the radiative forcing of climate. He et al. report experimental evidence from the CERN Cosmics Leaving Outdoor Droplets, or CLOUD, chamber demonstrating that iodic acid and iodous acid rapidly form new particles and can compete with sulfuric acid in pristine regions.</p>
       <p><em>X.-C. He<sup>+</sup>*, Y.J. Tham, L. Dada, …, J. Kirkby, D.R. Worsnop, M. Sipila</em></p>
       <p><strong><a href="https://science.sciencemag.org/content/371/6529/589">Science 371, 6529 (2021)</a></strong></p>
@@ -21,7 +49,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Determination of the collision rate coefficient between charged iodic acid clusters and iodic acid using the appearance time method</pubtit>
-      <p><img src="https://momo-catcat.github.io/images/pubpic/IA_clusters.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p><img src="http://localhost:4000/images/pubpic/IA_clusters.png" class="img-responsive" width="100%" style="float: left" /></p>
       <p>Ions enhance the formation rate of atmospheric aerosol particles, which play an important role in Earth’s radiative balance. Although theoretical frameworks exist to calculate the collision rate coefficients between neutral molecules and ions, they need to be experimentally confirmed, ideally under atmospherically relevant conditions of around 1000 ion pairs cm<sup>-3</sup>$. Here, in experiments performed under atmospheric conditions in the CERN CLOUD chamber, we have measured the collision rate coefficients between neutral iodic acid (HIO<sub>3</sub>) monomers and charged iodic acid molecular clusters containing up to 11 iodine atoms. Three methods were analytically derived to calculate ion-polar molecule collision rate coefficients.</p>
       <p><em>X.-C. He<sup>+</sup>*, S. Iyer, M. Sipila, …, J. Kirkby, T. Kurten, M. Kulmala</em></p>
       <p><strong><a href="https://doi.org/10.1080/02786826.2020.1839013">Aerosol Science and Technology 55, 2 (2021)</a></strong></p>
@@ -37,7 +65,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Measurement of iodine species and sulfuric acid using bromide chemical ionization mass spectrometers</pubtit>
-      <p><img src="https://momo-catcat.github.io/images/pubpic/BrCIMS_peaks.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p><img src="http://localhost:4000/images/pubpic/BrCIMS_peaks.png" class="img-responsive" width="100%" style="float: left" /></p>
       <p>Iodine species are important in the marine atmosphere for oxidation and new-particle formation. Here, we describe the application of a bromide chemical ionization mass spectrometer (Br-CIMS) to measure iodine species. We have measured gas-phase iodine species and sulfuric acid using two BrCIMS. From offline calibrations and intercomparisons with other instruments, we have quantified the sensitivities of the Br-MIONCIMS to HOI, I<sub>2</sub>, and H<sub>2</sub>SO<sub>4</sub> and obtained detection limits of 5.8 × 10<sup>6</sup>, 3.8 × 10<sup>5</sup>, and 2.0 × 10<sup>5</sup> molec. cm<sup>−3</sup>, respectively, for a 2 min integration time.</p>
       <p><em>M. Wang, X.-C. He<sup>+</sup>*, H. Finkenzeller, …, Y.J. Tham, N.M. Donahue, M. Sipila</em></p>
       <p><strong><a href="https://amt.copernicus.org/articles/14/4187/2021/">Atmospheric Measurement Techniques 14, 6 (2021)</a></strong></p>
@@ -49,7 +77,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Direct field evidence of autocatalytic iodine release from atmospheric aerosol</pubtit>
-      <p><img src="https://momo-catcat.github.io/images/pubpic/ICl_aerosol_surface.png" class="img-responsive" width="100%" style="float: left" /></p>
+      <p><img src="http://localhost:4000/images/pubpic/ICl_aerosol_surface.png" class="img-responsive" width="100%" style="float: left" /></p>
       <p>The postulation that heterogeneous cycling of reactive iodine on aerosols may significantly influence the lifetime of ozone in the troposphere not only remains poorly understood but also heretofore has never been observed or quantified in the field. Here, we report direct ambient observations of hypoiodous acid (HOI) and heterogeneous recycling of interhalogen product species (i.e., iodine monochloride [ICl] and iodine monobromide [IBr]) in a midlatitude coastal environment. Significant levels of ICl and IBr with mean daily maxima of 4.3 and 3.0 parts per trillion by volume (1-min average), respectively, have been observed throughout the campaign. We show that the heterogeneous reaction of HOI on marine aerosol and subsequent production of iodine interhalogens are much faster than previously thought.</p>
       <p><em>Y.J. Tham, X.-C. He, Q. Li, …, M. Dal Maso, A. Saiz-Lopez, M. Sipila</em></p>
       <p><strong><a href="http://www.pnas.org/lookup/doi/10.1073/pnas.2009951118">Proceedings of the National Academy of Sciences 118, 4 (2021)</a></strong></p>
@@ -61,6 +89,12 @@
 </div>
 
 <h2 id="list-of-highlights">List of highlights</h2>
+
+<p>The gas-phase formation mechanism of iodic acid as an atmospheric aerosol source <br />
+  <em>H. Finkenzeller, S. Iyer, X.-C. He, …, T. Kurten, M.P. Rissanen, R. Volkamer </em><br /><a href="https://www.nature.com/articles/s41557-022-01067-z">Nature Chemistry (2022)</a></p>
+
+<p>Critical Role of Iodous Acid in Neutral Iodine Oxoacid Nucleation <br />
+  <em>R. Zhang, H.-B. Xie, F. Ma., …, M. Sipila, M. Kulmala, X.-C. He<sup>*&lt;\sup&gt; &lt;/em&gt;<br /><a href="https://pubs.acs.org/doi/10.1021/acs.est.2c04328">Environmental Science and Technology 56, 19 (2022)</a></sup></em></p>
 
 <p>Role of iodine oxoacids in atmospheric aerosol nucleation <br />
   <em>X.-C. He<sup>+</sup>*, Y.J. Tham, L. Dada, …, J. Kirkby, D.R. Worsnop, M. Sipila </em><br /><a href="https://science.sciencemag.org/content/371/6529/589">Science 371, 6529 (2021)</a></p>
