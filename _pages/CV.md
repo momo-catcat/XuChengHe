@@ -64,7 +64,7 @@ permalink: /CV/
 ##### 2019. Course assistant for the 3rd course on climate science at high latitudes: eScience for linking Arctic measurements and modeling in Abisko
 #### *Supervision*
 ##### **Jiali Shen(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation. I started mentoring her as a senior student and now as a researcher. I work tightly with her since the beginning, conveying my knowledge on instrumentation, kinetic modeling, chamber experiments, scientific writing and other elements needed to be an independent researcher.
-#### *Mentor for:*
+#### *Mentor*
 ##### **Birte Rörup(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to iodine particle formation and aerosol measurements. 
 ##### **Duzitian Li(2021.09-present)**, MSc student at Nanjing University. Topic related to investigating iodine species in polluted urban regions
 ##### **Ying Zhang(2018.09-2022.05)**, graduated MSc student at Beijing University of Chemical Technology. Thesis title: Contribution of inorganic acids containing oxygen in gas-particle process to particle number concentration in urban Beijing 

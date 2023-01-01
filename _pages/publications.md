@@ -1,7 +1,7 @@
 ---
 title: "Xu-Cheng He - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Xu-Cheng He -- Publications."
 sitemap: false
 permalink: /publications/
 ---
