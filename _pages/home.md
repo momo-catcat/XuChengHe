@@ -52,7 +52,7 @@ permalink: /
 
 ##### I'm currently working on a new project that uses the [UK Unified Model](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model) to study the effect of particle formation in the climate system with a focus on introducing new mechanisms such as [iodine oxoacid particle formation](https://science.sciencemag.org/content/371/6529/589) which has recently been discovered.
 
-##### You can find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [Publons](https://publons.com/researcher/4586969/xu-cheng-he/)
+##### You can find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [WebofScience](https://www.webofscience.com/wos/author/record/3773694)
 
 ##### My research is funded by Jenny and Antti Wihuri Foundation and the Academy of Finland.
 <figure class="fourth">

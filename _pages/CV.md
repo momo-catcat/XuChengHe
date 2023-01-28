@@ -17,9 +17,14 @@ permalink: /CV/
 #### 2011 - 2015, BSc in Meteorology, Yunnan University
 ##### - Advisor: Dr. Di Zhao
 
-##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en)
+##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [WebofScience](https://www.webofscience.com/wos/author/record/3773694)
+
+<br/>
+<br/>
+
 ### PROFESSIONAL EXPERIENCE
 
+##### 2023.01 - **present**, visiting researcher at [University of Cambridge](https://www.ch.cam.ac.uk/group/atm/people)
 ##### 2022.09 - **present**, post-doctoral researcher at [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/climate-system-research)
 ##### 2017.09 - **present**, run coordinator for marine particle formation studies at the [CLOUD](https://home.cern/science/experiments/cloud) project at [CERN](https://home.cern) 
 ##### 2022.03 - 2022.08, visiting researcher at [Carnegie Mellon University](https://www.cmu.edu)
@@ -28,7 +33,6 @@ permalink: /CV/
 ##### 2020.09 - 2021.01, visiting researcher at [Nanjing University](https://www.nju.edu.cn/en/main.psp)
 ##### 2020.02 - 2020.03, visiting researcher at [Spanish National Research Council](https://www.csic.es/en/csic)
 ##### 2016.06 - 2017.12, research assistant at [University of Helsinki](https://www.helsinki.fi/en)
-##### 2014.01 - 2015.09, research assistant at [Yunnan University](http://english.ynu.edu.cn)
 
 <br/>
 
@@ -63,6 +67,7 @@ permalink: /CV/
 #### *Course Assistance*
 ##### 2019. Course assistant for the 3rd course on climate science at high latitudes: eScience for linking Arctic measurements and modeling in Abisko
 #### *Supervision*
+##### **Wenjuan Yu(2023.02-present)**, co-supervised doctoral researcher at University of Helsinki. Topic related to Arctic particle formation processes.
 ##### **Jiali Shen(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation. I started mentoring her as a senior student and now as a researcher. I work tightly with her since the beginning, conveying my knowledge on instrumentation, kinetic modeling, chamber experiments, scientific writing and other elements needed to be an independent researcher.
 #### *Mentor*
 ##### **Birte Rörup(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to iodine particle formation and aerosol measurements. 
