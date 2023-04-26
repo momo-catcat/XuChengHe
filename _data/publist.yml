@@ -1,3 +1,13 @@
+- title: "Enhancement of Atmospheric Nucleation Precursors on Iodic Acid-Induced Nucleation: Predictive Model and Mechanism"
+  image: Enhancements_of_HIO3_nucleation.jpeg 
+  description: Iodic acid (IA) has recently been recognized as a key driver for new particle formation (NPF) in marine atmospheres. However, the knowledge of which atmospheric vapors can enhance IA-induced NPF remains limited. The unique halogen bond (XB)-forming capacity of IA makes it difficult to evaluate the enhancing potential (EP) of target compounds on IAinduced NPF based on widely studied sulfuric acid systems. Herein, we employed athree-step procedure to evaluate the EP of potential atmospheric nucleation precursors on IA-induced NPF. First, we evaluated the EP of 63 precursors by simulating the formation free energies (ΔG) of the IA-containing dimer clusters. Among all dimer clusters, 44 contained XBs, demonstrating that XBs are frequently formed. Based on the calculated ΔG values, aquantitative structure−activity relationship model was developed for evaluating the EP of other precursors. 
+  authors: F. Ma, H.-B. Xie<sup>*</sup>, R. Zhang, ..., M. Engsvang, J. Elm, __X.-C. He__\*
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.est.3c01034 
+    display: Environmental Science and Technology (2023)
+  highlight: 1
+  news1: 
+
 - title: "The gas-phase formation mechanism of iodic acid as an atmospheric aerosol source"
   image: HIO3_formation_mechanism.png 
   description: Iodine is a reactive trace element in atmospheric chemistry that destroys ozone and nucleates particles. Iodine emissions have tripled since 1950 and are projected to keep increasing with rising O<sub>3</sub> surface concentrations. Although iodic acid (HIO<sub>3</sub>) is widespread and forms particles more efficiently than sulfuric acid, its gas-phase formation mechanism remains unresolved. Here, in CLOUD atmospheric simulation chamber experiments that generate iodine radicals at atmospherically relevant rates, we show that iodooxy hypoiodite, IOIO, is efficiently converted into HIO<sub>3</sub> via reactions (R1) IOIO + O<sub>3</sub> → IOIO<sub>4</sub> and (R2) IOIO<sub>4</sub> + H<sub>2</sub>O → HIO<sub>3</sub> + HOI + (1)O<sub>2</sub>. The laboratory-derived reaction rate coefficients are corroborated by theory and shown to explain field observations of daytime HIO<sub>3</sub> in the remote lower free troposphere. The mechanism provides a missing link between iodine sources and particle formation. Because particulate iodate is readily reduced, recycling iodine back into the gas phase, our results suggest a catalytic role of iodine in aerosol formation. 

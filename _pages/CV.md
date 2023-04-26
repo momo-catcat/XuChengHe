@@ -25,8 +25,8 @@ permalink: /CV/
 ### PROFESSIONAL EXPERIENCE
 
 ##### 2023.01 - **present**, visiting researcher at [University of Cambridge](https://www.ch.cam.ac.uk/group/atm/people)
-##### 2022.09 - **present**, post-doctoral researcher at [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/climate-system-research)
 ##### 2017.09 - **present**, run coordinator for marine particle formation studies at the [CLOUD](https://home.cern/science/experiments/cloud) project at [CERN](https://home.cern) 
+##### 2022.09 - 2023.04, post-doctoral researcher at [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/climate-system-research)
 ##### 2022.03 - 2022.08, visiting researcher at [Carnegie Mellon University](https://www.cmu.edu)
 ##### 2021.09 - 2022.02, post-doctoral researcher at [University of Helsinki](https://www.helsinki.fi/en)
 ##### 2021.03 - 2021.08, visiting researcher at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm)
@@ -65,11 +65,12 @@ permalink: /CV/
 
 ### TEACHING AND SUPERVISION 
 #### *Course Assistance*
+##### 2018. Course assistant for formation and growth of atmospheric aerosols
 ##### 2019. Course assistant for the 3rd course on climate science at high latitudes: eScience for linking Arctic measurements and modeling in Abisko
 #### *Supervision*
 ##### **Wenjuan Yu(2023.02-present)**, co-supervised doctoral researcher at University of Helsinki. Topic related to Arctic particle formation processes.
-##### **Jiali Shen(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation. I started mentoring her as a senior student and now as a researcher. I work tightly with her since the beginning, conveying my knowledge on instrumentation, kinetic modeling, chamber experiments, scientific writing and other elements needed to be an independent researcher.
-#### *Mentor*
+##### **Jiali Shen(2018.05-2023.04)**, co-supervised doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation. I started mentoring her as a senior student and now as a researcher. I work tightly with her since the beginning, conveying my knowledge on instrumentation, kinetic modeling, chamber experiments, scientific writing and other elements needed to be an independent researcher. **Graduated with a distinction (10%)**.
+#### *Mentorship*
 ##### **Birte Rörup(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to iodine particle formation and aerosol measurements. 
 ##### **Duzitian Li(2021.09-present)**, MSc student at Nanjing University. Topic related to investigating iodine species in polluted urban regions
 ##### **Ying Zhang(2018.09-2022.05)**, graduated MSc student at Beijing University of Chemical Technology. Thesis title: Contribution of inorganic acids containing oxygen in gas-particle process to particle number concentration in urban Beijing 

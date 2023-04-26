@@ -1,10 +1,22 @@
-I"ð×<h1 id="publications">Publications</h1>
+I"±ß<h1 id="publications">Publications</h1>
 
 <h2 id="highlights">Highlights</h2>
 
 <p><strong>At the end of this page, you can find the <a href="#list-of-highlights">list of highlights</a> and the <a href="#full-list-of-publications">full list of publications</a>.</strong></p>
 
 <div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Enhancement of Atmospheric Nucleation Precursors on Iodic Acid-Induced Nucleation: Predictive Model and Mechanism</pubtit>
+      <p><img src="https://momo-catcat.github.io/images/pubpic/Enhancements_of_HIO3_nucleation.jpeg" class="img-responsive" width="100%" style="float: left" /></p>
+      <p>Iodic acid (IA) has recently been recognized as a key driver for new particle formation (NPF) in marine atmospheres. However, the knowledge of which atmospheric vapors can enhance IA-induced NPF remains limited. The unique halogen bond (XB)-forming capacity of IA makes it difficult to evaluate the enhancing potential (EP) of target compounds on IAinduced NPF based on widely studied sulfuric acid systems. Herein, we employed athree-step procedure to evaluate the EP of potential atmospheric nucleation precursors on IA-induced NPF. First, we evaluated the EP of 63 precursors by simulating the formation free energies (Î”G) of the IA-containing dimer clusters. Among all dimer clusters, 44 contained XBs, demonstrating that XBs are frequently formed. Based on the calculated Î”G values, aquantitative structureâˆ’activity relationship model was developed for evaluating the EP of other precursors.</p>
+      <p><em>F. Ma, H.-B. Xie<sup>*</sup>, R. Zhang, â€¦, M. Engsvang, J. Elm, <strong>X.-C. He</strong>*</em></p>
+      <p><strong><a href="https://pubs.acs.org/doi/10.1021/acs.est.3c01034">Environmental Science and Technology (2023)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -18,6 +30,10 @@
     </div>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Critical Role of Iodous Acid in Neutral Iodine Oxoacid Nucleation</pubtit>
@@ -29,10 +45,6 @@
       <p> </p>
     </div>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -46,6 +58,10 @@
     </div>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Determination of the collision rate coefficient between charged iodic acid clusters and iodic acid using the appearance time method</pubtit>
@@ -58,10 +74,6 @@
     </div>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Measurement of iodine species and sulfuric acid using bromide chemical ionization mass spectrometers</pubtit>
@@ -73,6 +85,10 @@
       <p> </p>
     </div>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -90,6 +106,9 @@
 
 <h2 id="list-of-highlights">List of highlights</h2>
 <p><strong>Equal contribution (<sup>+</sup>) and corresponding author (*)</strong></p>
+
+<p>Enhancement of Atmospheric Nucleation Precursors on Iodic Acid-Induced Nucleation: Predictive Model and Mechanism <br />
+  <em>F. Ma, H.-B. Xie<sup>*</sup>, R. Zhang, â€¦, M. Engsvang, J. Elm, <strong>X.-C. He</strong>* </em><br /><a href="https://pubs.acs.org/doi/10.1021/acs.est.3c01034">Environmental Science and Technology (2023)</a></p>
 
 <p>The gas-phase formation mechanism of iodic acid as an atmospheric aerosol source <br />
   <em>H. Finkenzeller<sup>+</sup>*, S. Iyer<sup>+</sup>, <strong>X.-C. He</strong>, â€¦, T. Kurten, M.P. Rissanen, R. Volkamer* </em><br /><a href="https://www.nature.com/articles/s41557-022-01067-z">Nature Chemistry (2022)</a></p>
