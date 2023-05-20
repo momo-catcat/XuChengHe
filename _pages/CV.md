@@ -38,7 +38,8 @@ permalink: /CV/
 
 ### AWARDS
 
-##### 2022, Extraordinary Potential Prize of 2021 Chinese Government Award for Outstanding Self-financed Students Abroad, award for 20 awardees globally (10,000 $)
+##### 2023, Atmospheric Chemistry Colloquium for Emerging Senior Scientists (ACCESS XVII) participant
+##### 2022, Extraordinary Potential Prize of 2021 Chinese Government Award for Outstanding Self-financed Students Abroad (20 recipients globally, 10,000 $)
 ##### 2022, Dissertation price, all faculties (4/500), University of Helsinki (4,000 €)
 ##### 2022, [NOSA ECS Aerosologist award](https://mailchi.mp/3e749816d515/nosa-newsletter-8?e=2136630d73) (Early Career Scientist), Nordic Society of Aerosol Research
 ##### 2021, Outstanding thesis award, Doctoral School of Natural Sciences, University of Helsinki (2,000 €)
