@@ -7,6 +7,8 @@ permalink: /gallery/
 
 # Gallery 
 
+#### I am a photography enthusiast, and I love capturing moments during my leisure trips and field atmospheric observations. Therefore, I have created this gallery to show some of my favorites.
+
 ## CLOUD project 
 
 #### Jasper introduces the CLOUD chamber:
