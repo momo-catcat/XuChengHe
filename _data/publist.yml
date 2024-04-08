@@ -1,7 +1,7 @@
 - title: "Iodine oxoacids and their roles in sub-3 nm particle growth in polluted urban environments"
   image: Beijing_observation.png 
   description: New particle formation contributes significantly to the number concentration of ultrafine particles (UFPs, d ≤ 100 nm) and has a great impact on human health and global climate. Iodine oxoacids (HIOx, including iodic acid, HIO3, and iodous acid, HIO2) have been observed in pristine regions and proved to dominate new particle formation (NPF) at some sites. However, the knowledge of HIOx in polluted urban areas is rather limited. Here, we conducted a long-term measurements of gaseous iodine oxoacids and sulfuric acid in Beijing from January 2019 to October 2021 and also in Nanjing from March 2019 to February 2020 and investigated the contribution of HIOx to UFP number concentration in both urban environments. Our results demonstrate that HIO3 enhances the particle survival probability of sub-3 nm particles by about 40 % (median) and occasionally by more than 100 % in NPF events, suggesting HIOx are significant contributor to UFPs in polluted urban areas. As the growth contribution from HIO3 and H2SO4 is similar on a per-molecule basis, we propose that the sum of HIO3 and H2SO4 could be used to estimate sub-3 nm particle growth of inorganic acid origin in polluted atmospheres with a significant amount of HIOx.
-  authors: Y. Zhang<sup>+</sup>, Duzitian Li<sup>+</sup>, __X.-C. He__\*, ..., J. Jiang, A. Ding, M. Kulmala 
+  authors: Y. Zhang<sup>+</sup>, Duzitian Li<sup>+</sup>, __X.-C. He__\*, W. Nie\*, ..., J. Jiang, A. Ding, M. Kulmala 
   link:
     url: https://acp.copernicus.org/articles/24/1873/2024/ 
     display: Atmospheric Chemistry and Physics (2024)

@@ -8,9 +8,9 @@ permalink: /research/
 
 
 # Research
-##### There are several ways to study atmospheric composition: field observations, laboratory experiments, physical chemistry and models of different scales. Without any doubt, they are complementary: observations tell us the reality, experiments and theories explain the mechanisms and models help to predict the past and future. I’ve always been charmed by the possibility to combine several of these methods to look at a problem from different angles – a way I believe that will tell us the most about the importance of a phenomenon. 
+##### There are several ways to study atmospheric composition: field observations, laboratory experiments, physical chemistry and models of different scales. Without any doubt, they are complementary: observations tell us the reality, experiments and theories explain the mechanisms and models help to predict the past and future. I have always been charmed by the possibility to combine several of these methods to look at a problem from different angles – a way I believe that will tell us the most about the importance of an atmospheric phenomenon. 
 
-##### My past and current research has a central theme: understanding the particle formation in polar and marine environments, with a special focus on the role of iodine and sulfur species in atmospheric particle and cloud condensation nuclei formation processes. My research combines state-of-art mass spectrometric methods with kinetic modeling, quantum chemical calculations and laboratory experiments to help solve these questions.
+##### My past and current research has a central theme: understanding the cloud radiative forcings in polar and marine environments, with a special focus on the role of iodine, sulfur and oxidised organic species in atmospheric particle and cloud condensation nuclei formation processes. My research combines state-of-art mass spectrometric methods with quantum chemical calculations, laboratory experiments, field observations and models of different scales to help achieve molecular understandings of these scientific questions.
 
 ## Methodology
 <div class="col-sm-12 clearfix">

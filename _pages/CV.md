@@ -63,20 +63,20 @@ permalink: /CV/
 <br/>
 
 ### TEACHING AND SUPERVISION 
-#### *Course Assistance*
+#### __*Course Assistance*__
 ##### 2018. Course assistant for formation and growth of atmospheric aerosols
 ##### 2019. Course assistant for the 3rd course on climate science at high latitudes: eScience for linking Arctic measurements and modeling in Abisko
-#### *Supervision*
+#### __*Supervision*__
 ##### **Wenjuan Yu(2023.02-present)**, co-supervised doctoral researcher at University of Helsinki. Topic related to Arctic particle formation processes.
 ##### **Jiali Shen(2018.05-2023.04)**, co-supervised doctoral researcher at University of Helsinki. Topic related to dimethyl sulfide oxidation and marine particle formation. I started mentoring her as a senior student and now as a researcher. I work tightly with her since the beginning, conveying my knowledge on instrumentation, kinetic modeling, chamber experiments, scientific writing and other elements needed to be an independent researcher.
-#### *Mentorship*
+#### __*Mentorship*__
 ##### **Birte Rörup(2018.05-present)**, doctoral researcher at University of Helsinki. Topic related to iodine particle formation and aerosol measurements. 
 ##### **Duzitian Li(2021.09-present)**, MSc student at Nanjing University. Topic related to investigating iodine species in polluted urban regions
 ##### **Ying Zhang(2018.09-2022.05)**, graduated MSc student at Beijing University of Chemical Technology. Thesis title: Contribution of inorganic acids containing oxygen in gas-particle process to particle number concentration in urban Beijing 
 
 <br/>
-### Scientific activities 
-#### *Selected Invited Talks*
+### SCIENTIFIC ACTIVITIES 
+#### __*Selected Invited Talks*__
 
 ##### 2024.03. **Invited seminar**, University of Cambridge, UK 
 
@@ -88,23 +88,29 @@ permalink: /CV/
 
 ##### 2021.01. Role of iodine in the atmosphere. Nanjing University, China
 
-#### *Conference and workshop participation*
+#### __*Conference and workshop participation*__
 
-##### 2024. 1 oral presentations in conference.
+##### American Meteorological Society annual meeting (session co-chair, 2023, 2024) 
 
-##### 2023. 1 oral presentations in conference.
+##### Atmospheric Chemistry Colloquium for Emerging Senior Scientists (Invited, 2023)
 
-##### 2022. 2 oral presentations in conferences.
+##### Gordon Research Conference - Atmospheric Chemistry (Poster, 2022) 
 
-##### 2021. 2 oral presentations in conferences (one best oral presentation award); 3 oral presentations in scientific meetings
+##### European Geosciences Union General Assembly (Talk, 2020, 2021) 
 
-##### 2020. 1 oral presentations in a conference
-    
-##### 2019. 2 poster presentations in conferences; 3 oral presentations in scientific meetings
-    
-##### 2018. 3 oral presentations in scientific meetings
-    
-##### 2017. 1 oral and 3 poster presentations in conferences; 4 oral presentations in scientific meetings
+##### International Aerosol Conference (Talk, 2023; Poster, 2017) 
+
+##### European Aerosol Conference (Talk, 2022; Poster, 2019) 
+
+##### International Conference on Nucleation and Atmospheric Aerosols (Talk, 2023; Poster, 2017) 
+
+##### International Conference on Aerosol Cycle (Talk, 2017) 
+
+##### Free Radical Symposium (Poster, 2017) 
+
+##### Surface Ocean Lower Atmosphere Study (Poster, 2019) 
+
+##### Cryosphere and Atmospheric Chemistry (Poster, 2017) 
 
 ### OUTREACH
 
