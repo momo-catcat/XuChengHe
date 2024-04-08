@@ -56,8 +56,9 @@ permalink: /CV/
 
 ### SERVICE 
 
-##### 2022-**present**, **co-chair**, "Measurement and modeling of atmospheric cloud condensation nuclei and related chemistry" session at the [American Meteorological Society Annual Meeting](https://annual.ametsoc.org/).
-##### 2020-**present**, **reviewer** for [Atmospheric Chemistry and Physics](https://acp.copernicus.org), [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007) and [Environmental Science & Technology](https://pubs.acs.org/journal/esthag)
+##### 2023-**present**, **co-chair**, "Formation and impacts of atmospheric aerosols and cloud condensation nuclei" session at the [American Meteorological Society Annual Meeting](https://annual.ametsoc.org/)
+##### 2022, **co-chair**, "Measurement and modeling of atmospheric cloud condensation nuclei and related chemistry" session at the [American Meteorological Society Annual Meeting](https://annual.ametsoc.org/)
+##### 2020-**present**, **reviewer** for [One Earth](https://www.cell.com/one-earth/home), [Atmospheric Chemistry and Physics](https://acp.copernicus.org), [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007), [Journal of Geophysical Research: Atmosphere](https://agupubs.onlinelibrary.wiley.com/journal/21698996?utm_source=google&utm_medium=paidsearch&utm_campaign=R3MR425&utm_content=EarthSpaceEnvirSci&gad_source=1&gclid=EAIaIQobChMIx-GQ-MWxhQMVbpBQBh165g2hEAAYASAAEgJ87fD_BwE), [Environmental Science & Technology Letters](https://pubs.acs.org/journal/estlcu) and [Environmental Science & Technology](https://pubs.acs.org/journal/esthag)
 
 <br/>
 
@@ -77,6 +78,10 @@ permalink: /CV/
 ### Scientific activities 
 #### *Selected Invited Talks*
 
+##### 2024.03. **Invited seminar**, University of Cambridge, UK 
+
+##### 2024.01. **Invited seminar**, University of Birmingham, UK 
+
 ##### 2022.08. **Invited speaker**, Measurement of Nucleating Clusters at the CLOUD Chamber, [Gordon Research Conference](https://www.grc.org/molecular-and-ionic-clusters-conference/2022/), Italy
 
 ##### 2022.05. Iodine oxoacids: overlooked players in atmospheric aerosol formation. Carnegie Mellon University, US
@@ -84,6 +89,10 @@ permalink: /CV/
 ##### 2021.01. Role of iodine in the atmosphere. Nanjing University, China
 
 #### *Conference and workshop participation*
+
+##### 2024. 1 oral presentations in conference.
+
+##### 2023. 1 oral presentations in conference.
 
 ##### 2022. 2 oral presentations in conferences.
 
@@ -101,6 +110,4 @@ permalink: /CV/
 
 #### *Social media outreach*
 
-##### 2020.10 - **present**. [Twitter](https://twitter.com/XuChengLanceHe1). Main content related to my recent research and scientific life. 172 followers.
-
-##### Ca. 2016 - **present**. Science & society Q&A website (Zhihu.com, in Chinese) content provider (currently anonymous). 460 followers. 
+##### Ca. 2016 - **present**. Science & society Q&A website (Zhihu.com, in Chinese) content provider (currently anonymous). 800 followers. 

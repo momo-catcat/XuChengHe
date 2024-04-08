@@ -12,14 +12,6 @@ permalink: /research/
 
 ##### My past and current research has a central theme: understanding the particle formation in polar and marine environments, with a special focus on the role of iodine and sulfur species in atmospheric particle and cloud condensation nuclei formation processes. My research combines state-of-art mass spectrometric methods with kinetic modeling, quantum chemical calculations and laboratory experiments to help solve these questions.
 
-##### Some of the major challenges in iodine particle formation studies before I started were:
-
-##### -There wasn’t a technique that could provide sensitive and comprehensive measurements of gaseous iodine species.
-
-##### -The aerosol nucleation mechanisms and formation mechanisms of iodine oxoacids were not clear.
-
-##### -The global importance of iodine particle formation processes remains unclear.
-
 ## Methodology
 <div class="col-sm-12 clearfix">
  <div class="well">
