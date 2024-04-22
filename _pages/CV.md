@@ -78,6 +78,8 @@ permalink: /CV/
 ### SCIENTIFIC ACTIVITIES 
 #### __*Selected Invited Talks*__
 
+##### 2024.04. **Invited seminar**, Iodine and sulfur oxoacids as the key driving marine and polar secondary aerosol formation [SOLAS open seminar series](https://www.solas-int.org/events/solas-seminar/solas-semianr-viii.html)
+
 ##### 2024.03. **Invited seminar**, University of Cambridge, UK 
 
 ##### 2024.01. **Invited seminar**, University of Birmingham, UK 
