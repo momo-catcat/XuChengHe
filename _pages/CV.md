@@ -48,7 +48,7 @@ permalink: /CV/
 
 ### FELLOWSHIPS & GRANTS 
 
-##### 2022-2025, [post-doctoral researcher fellowship](https://www.aka.fi/en/about-us/whats-new/press-releases/2022/new-academy-of-finland-postdoctoral-researchers-selected-in-natural-sciences-and-engineering-research/), Academy of Finland (364,377 €)
+##### 2022-2025, [post-doctoral researcher fellowship](https://www.aka.fi/en/about-us/whats-new/press-releases/2022/new-academy-of-finland-postdoctoral-researchers-selected-in-natural-sciences-and-engineering-research/), Research Council of Finland (364,377 €)
 ##### 2022, [post-doctoral researcher grant](https://postdocpooli.fi/the-results-from-the-pools-application-round-31-new-grants/), Jenny and Antti Wihuri Foundation (56,000 €)
 ##### 2018-2021, Doctoral school fellowship, University of Helsinki (ca. 108,000 €)
 
