@@ -14,7 +14,7 @@ permalink: /CV/
 #### 2015 - 2017, MSc in Atmospheric Sciences, University of Helsinki 
 ##### - Advisors: Prof. Mikko Sipilä, Prof. Matti Rissanen 
 
-#### 2011 - 2015, BSc in Meteorology, Yunnan University
+#### 2011 - 2015, BSc in Atmospheric Sciences, Yunnan University
 ##### - Advisor: Dr. Di Zhao
 
 ##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [WebofScience](https://www.webofscience.com/wos/author/record/3773694)
@@ -78,7 +78,9 @@ permalink: /CV/
 ### SCIENTIFIC ACTIVITIES 
 #### __*Selected Invited Talks*__
 
-##### 2024.04. **Invited seminar**, Iodine and sulfur oxoacids as the key driving marine and polar secondary aerosol formation [SOLAS open seminar series](https://www.solas-int.org/events/solas-seminar/solas-semianr-viii.html)
+##### 2024.05. **Invited seminar**, New Insights of Marine Secondary Aerosol Formation Processes, Max Planck Institute for Chemistry, Germany 
+
+##### 2024.04. **Invited seminar**, Iodine and sulfur oxoacids as the key driving marine and polar secondary aerosol formation, [SOLAS open seminar series](https://www.solas-int.org/events/solas-seminar/solas-semianr-viii.html)
 
 ##### 2024.03. **Invited seminar**, University of Cambridge, UK 
 
