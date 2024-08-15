@@ -28,7 +28,6 @@ permalink: /CV/
 ##### 2017.09 - **present**, run coordinator for marine particle formation studies at the [CLOUD](https://home.cern/science/experiments/cloud) project at [CERN](https://home.cern) and [University of Helsinki](https://www.helsinki.fi/en) (3 mos. per year)
 ##### 2022.03 - 2022.12, visiting researcher at [Carnegie Mellon University](https://www.cmu.edu) and [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/climate-system-research) (global model training)
 ##### 2020.09 - 2021.08, visiting researcher at [Nanjing University](https://www.nju.edu.cn/en/main.psp) and [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm) (operation of urban observatory)
-##### 2020.02 - 2020.03, visiting researcher at [Spanish National Research Council](https://www.csic.es/en/csic) (iodine chemistry)
 ##### 2016.06 - 2017.12, research assistant at [University of Helsinki](https://www.helsinki.fi/en)
 
 <br/>
