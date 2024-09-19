@@ -5,7 +5,7 @@ excerpt: "Xu-Cheng He Curriculum Vitae"
 sitemap: false
 permalink: /CV/
 ---
-### Xu-Cheng He, PhD ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xu-Cheng.jpg){: style="width: 450px; float: left; margin: 0px 10px"}
+### Xu-Cheng He, PhD ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Xu-ChengHE_2.jpg){: style="width: 450px; float: left; margin: 0px 10px"}
 ### EDUCATION 
 
 #### 2018 - 2021, PhD in Atmospheric Sciences (Distinction), University of Helsinki
