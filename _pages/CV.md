@@ -9,13 +9,11 @@ permalink: /CV/
 ### EDUCATION 
 
 #### 2018 - 2021, PhD in Atmospheric Sciences (Distinction), University of Helsinki
-#####  - Advisors: Prof. Markku Kulmala, Prof. Jasper Kirkby, Prof. Mikko Sipilä, Prof. Matti Rissanen, Prof. Theo Kurtén
+#####  - Advisor: Prof. Markku Kulmala
 
 #### 2015 - 2017, MSc in Atmospheric Sciences, University of Helsinki 
-##### - Advisors: Prof. Mikko Sipilä, Prof. Matti Rissanen 
 
 #### 2011 - 2015, BSc in Atmospheric Sciences, Yunnan University
-##### - Advisor: Dr. Di Zhao
 
 ##### Find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [WebofScience](https://www.webofscience.com/wos/author/record/3773694)
 
