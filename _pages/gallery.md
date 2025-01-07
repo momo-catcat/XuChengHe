@@ -20,7 +20,6 @@ permalink: /gallery/
 ## Iceland, 2021
 ### ![]({{ site.url }}{{ site.baseurl }}/images/gallerypic/DSC02582.JPG ){: style="width: 900px; margin: 0px 10px"}
 ### ![]({{ site.url }}{{ site.baseurl }}/images/gallerypic/DSC02460.JPG ){: style="width: 900px; margin: 0px 10px"}
-### ![]({{ site.url }}{{ site.baseurl }}/images/gallerypic/DSC02422.JPG ){: style="width: 900px; margin: 0px 10px"}
 ### ![]({{ site.url }}{{ site.baseurl }}/images/gallerypic/DSC02650.JPG ){: style="width: 900px; margin: 0px 10px"}
 ### ![]({{ site.url }}{{ site.baseurl }}/images/gallerypic/DSC02622.JPG ){: style="width: 900px; margin: 0px 10px"}
 ### ![]({{ site.url }}{{ site.baseurl }}/images/gallerypic/DSC02694.JPG ){: style="width: 900px; margin: 0px 10px"}
