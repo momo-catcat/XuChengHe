@@ -48,13 +48,13 @@ permalink: /
 
 ##### Hi, I'm Xu-Cheng He, 何旭成, an early career researcher studying atmospheric aerosols, clouds and their climatic effects. I'm currently a visiting researcher at the [University of Cambridge](https://www.ch.cam.ac.uk/group/atm/people) and I'm also associated with the [Institute for Atmospheric and Earth System Research (INAR)](https://www.helsinki.fi/en/inar) at [University of Helsinki](https://www.helsinki.fi/en), where I completed my MSc and PhD degrees with Prof. Markku Kulmala.
 
-##### My research combines state-of-the-art mass spectrometric methods with quantum chemical calculations to investigate and interpret atmospheric aerosol formation both from ambient observations and chamber simulations. 
+##### My research combines state-of-the-art mass spectrometric methods, quantum chemical calculations and Earth system modelling to investigate and interpret atmospheric aerosol formation both from ambient observations and chamber simulations. 
 
-##### I'm currently working on a new project that uses the [UK Unified Model](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model) to study the effect of particle formation in the climate system with a focus on introducing new mechanisms such as [iodine oxoacid particle formation](https://science.sciencemag.org/content/371/6529/589) which has recently been discovered.
+##### I'm currently working on a new project that uses the [UK Unified Model](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model) to study the effect of particle formation in the climate system with a focus on introducing new mechanisms such as [iodine oxoacid particle formation](https://science.sciencemag.org/content/371/6529/589) and [isoprene new particle formation](https://www.nature.com/articles/s41586-024-08196-0) which have recently been discovered.
 
-##### You can find me on: [Twitter](https://twitter.com/XuChengLanceHe1), [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [WebofScience](https://www.webofscience.com/wos/author/record/3773694)
+##### You can find me on: [ResearchGate](https://www.researchgate.net/profile/Xu-Cheng-He), [Google Scholar](https://scholar.google.com/citations?user=KrbWsdUAAAAJ&hl=en), [WebofScience](https://www.webofscience.com/wos/author/record/3773694)
 
-##### My research is funded by Jenny and Antti Wihuri Foundation and the Academy of Finland.
+##### My research is funded by Jenny and Antti Wihuri Foundation and Research Council of Finland .
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JennyAnttiWihuri.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AcademyOfFinland.jpg" style="width: 180px">

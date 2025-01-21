@@ -7,9 +7,12 @@ permalink: /gallery/
 
 # Gallery 
 
-#### I am a photography enthusiast, and I love capturing moments during my leisure trips and field atmospheric observations. Therefore, I have created this gallery to show some of my favorites.
+#### In addition to being a researcher, I am a photography enthusiast as I enjoy capturing moments during leisure trips and fieldwork in atmospheric observations. This gallery showcases some of my favorite images of science and nature.
 
 ## CLOUD project 
+
+#### Mechanism of isoprene upper-tropospheric new particle formation
+<iframe scrolling="no"  src="https://videos.cern.ch/video/CERN-VIDEO-2024-056-001" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 #### Jasper introduces the CLOUD chamber:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QVxPnVvW8Js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
