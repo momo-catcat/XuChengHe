@@ -9,7 +9,7 @@ permalink: /CV/
 ### EDUCATION 
 
 #### 2018 - 2021, PhD in Atmospheric Sciences (Distinction), University of Helsinki
-#####  - Advisor: Prof. Markku Kulmala
+#####  - Advisors: Prof. Markku Kulmala, Prof. Jasper Kirkby
 
 #### 2015 - 2017, MSc in Atmospheric Sciences, University of Helsinki 
 
