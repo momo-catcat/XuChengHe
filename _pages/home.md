@@ -58,4 +58,5 @@ permalink: /
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JennyAnttiWihuri.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AcademyOfFinland.jpg" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Spark.png" style="width: 180px">
 </figure>
